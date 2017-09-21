@@ -36,6 +36,7 @@ h2 {
 .sem_role .popuptext {
     /*visibility: hidden;*/
     display: none;
+    opacity: 0.75;
     width: 160px;
     background-color: #555;
     color: #fff;

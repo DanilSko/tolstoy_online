@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Война и мир. </title>
+                <author> Толстой Л.Н. </author>
+                <respStmt>
+                    <resp> подготовка электронного издания </resp>
+                    <name> Даниил Скоринкин </name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName> Школа лингвистики НИУ ВШЭ </orgName>
+                </publisher>
+                <availability>
+                    <p> Тексты и метатекстовая разметка доступны для свободного использования и
+                        распространения по лицензии Creative Commons Attribution Share-Alike (cc
+                        by-sa) </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author> Толстой Л.Н. </author>
+                        <title level="a"> Война и мир. </title>
+                    </analytic>
+                    <monogr>
+                        <title level="m"> Полное собрание сочинений. Серия первая "Произведения".
+                            Тома 9 - 12 </title>
+                        <imprint>
+                            <pubPlace> Москва </pubPlace>
+                            <publisher> Государственное издательство "Художественная литература" </publisher>
+                            <date when="1937"/>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s"> Л.Н. Толстой. Полное собрание сочинений </title>
+                        <biblScope unit="vol"> 9 </biblScope>
+                    </series>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc> </encodingDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="Mavra_Kuzminishna">
+                        <persName>
+                            <forename>Мавра</forename>
+                            <surname>Кузминишна</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Ilyin">
+                        <persName>
+                            <surname>Ильин</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Dron_Zakharych">
+                        <persName>Дрон</persName>
+                    </person>
+                    <person xml:id="Count_Ilya_Rostov">
+                        <persName>
+                            <forename>Илья</forename>
+                            <patronymic>Андреевич</patronymic>
+                            <patronymic>Андреич</patronymic>
+                            <surname>Ростов</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Lavrushka">
+                        <persName>
+                            <forename>Лаврушка</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="Bilibin">
+                        <persName>
+                            <surname>Билибин</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Princess_Mariya_Bolkonskaya">
+                        <persName>
+                            <forename>Марья</forename>
+                            <forename type="foreign">Мари</forename>
+                            <surname>Болконская</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Kirsten">
+                        <persName>
+                            <forename>Кирстен</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="Count_Kirill_Bezukhov">
+                        <persName>
+                            <forename>Кирилл</forename>
+                            <surname>Безухов</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Julie_Karagina">
+                        <persName>
+                            <forename>Жюли</forename>
+                            <surname>Карагина</surname>
+                            <surname>Друбецкая</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Emperor_Francis_I_of_Austria">
+                        <persName>
+                            <forename>Франц</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="Captain_Ramballe">
+                        <persName>
+                            <surname>Рамбаль</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Count_Rostopchin">
+                        <persName>
+                            <forename>Федор</forename>
+                            <patronymic>Васильевич</patronymic>
+                            <surname>Растопчин</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Anna_Ignatyevna_Malvintsev">
+                        <persName>
+                            <forename>Анна</forename>
+                            <patronymic>Игнатьевна</patronymic>
+                            <surname>Мальвинцева</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Prince_Adam_Jerzy_Czartoryski">
+                        <persName>
+                            <surname>Чарторижский</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Aline_Kuragina">
+                        <persName> </persName>
+                    </person>
+                    <person xml:id="Boris_Drubetskoy">
+                        <persName>
+                            <forename>Борис</forename>
+                            <forename type="diminutive">Боря</forename>
+                            <surname>Друбецкой</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Vereshchagin">
+                        <persName>
+                            <surname>Верещагин</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Bolhovitinov">
+                        <persName>
+                            <surname>Болховитинов</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Shcherbinin">
+                        <persName>
+                            <surname>Щербинин</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Count_Vasily_Orlov-Denisov">
+                        <persName>
+                            <surname>Орлов-Денисов</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Dmitry_Dokhturov">
+                        <persName>
+                            <surname>Дохтуров</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Sonya_Rostova">
+                        <persName>
+                            <forename type="diminutive">Сонюшка</forename>
+                            <forename type="uncommon">Софья</forename>
+                            <forename>Соня</forename>
+                            <surname>Ростова</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="HeleneKuragin">
+                        <persName>
+                            <forename>Элен</forename>
+                            <surname>Безухова</surname>
+                            <surname>Курагина</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="General_Mack">
+                        <persName>
+                            <forename>Мак</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="Princess_Anna_Mikhaylovna_Drubetskaya">
+                        <persName>
+                            <forename>Анна</forename>
+                            <patronymic>Михайловна</patronymic>
+                            <surname>Друбецкая</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Joachim_Murat">
+                        <persName>
+                            <forename>Мюрат</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="Anatole_Kuragin">
+                        <persName>
+                            <forename>Анатоль</forename>
+                            <surname>Курагин</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Pfuel"> </person>
+                    <person xml:id="Joseph_Alexeevich_Bazdeev">
+                        <persName>
+                            <forename>Осип</forename>
+                            <patronymic>Алексеевич</patronymic>
+                            <surname>Баздеев</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Yermolov">
+                        <persName>
+                            <surname>Ермолов</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Mikhail_Ilarionovich_Kutuzov">
+                        <persName>
+                            <forename>Михаил</forename>
+                            <patronymic>Илларионович</patronymic>
+                            <surname>Ларионович</surname>
+                            <surname>Кутузов</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Prince_Volkonsky">
+                        <persName>
+                            <forename>Петр</forename>
+                            <patronymic>Михайлович</patronymic>
+                            <surname>Волконский</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya">
+                        <persName>
+                            <forename>Елизавета</forename>
+                            <forename>Лиза</forename>
+                            <patronymic>Карловна</patronymic>
+                            <surname>Болконская</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Tsar_Alexander_I_of_Russia">
+                        <persName>
+                            <forename>Александр</forename>
+                            <patronymic>Павлович</patronymic>
+                        </persName>
+                    </person>
+                    <person xml:id="Anna_Pavlovna_Scherer">
+                        <persName>
+                            <forename>Анна</forename>
+                            <patronymic>Павловна</patronymic>
+                            <surname>Шерер</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Petya_Rostov">
+                        <persName>
+                            <forename>Петя</forename>
+                            <forename type="official">Пётр</forename>
+                            <surname>Ростов</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Prince_Dolgorukov">
+                        <persName>
+                            <surname>Долгоруков</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Fedor_Ivanovich_Dolokhov">
+                        <persName>
+                            <forename>Федор</forename>
+                            <forename type="diminutive">Федя</forename>
+                            <patronymic>Иванович</patronymic>
+                            <surname>Долохов</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Staff_Captain_Tushin">
+                        <persName>
+                            <surname>Тушин</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Prince_Nikolay_Bolkonsky">
+                        <persName>
+                            <forename>Николай</forename>
+                            <patronymic>Андреевич</patronymic>
+                            <patronymic type="colloq">Андреич</patronymic>
+                            <surname>Болконский</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Marya_Lvovna_Karagina">
+                        <persName>
+                            <forename>Марья</forename>
+                            <patronymic>Львовна</patronymic>
+                            <surname>Карагина</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Berthier">
+                        <persName>
+                            <surname>Бертье</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Monsieur_Dessalles">
+                        <persName>
+                            <surname>Десаль</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Pyotr_Nikolaitch_Shinshin">
+                        <persName>
+                            <surname>Шиншин</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Willarski">
+                        <persName>
+                            <surname>Вилларский</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Pavel_Vasilievich_Chichagov"> </person>
+                    <person xml:id="Napoleon_Bonaparte">
+                        <persName>
+                            <forename>Наполеон</forename>
+                            <surname>Бонапарт</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Vera_Rostova">
+                        <persName>
+                            <forename>Вера</forename>
+                            <forename type="diminutive">Верочка</forename>
+                            <surname>Ростова</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Pierre_Bezukhov">
+                        <persName>
+                            <forename type="uncommon">Петр</forename>
+                            <forename>Пьер</forename>
+                            <patronymic>Кириллович</patronymic>
+                            <patronymic type="colloq">Кириллыч</patronymic>
+                            <surname>Кирилыч</surname>
+                            <surname>Безухов</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Prince_Kozlovsky">
+                        <persName>
+                            <surname>Козловский</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="AndreyBolkonsky">
+                        <persName>
+                            <forename>Андрей</forename>
+                            <forename type="diminutive">Андрюша</forename>
+                            <patronymic  type="colloq">Николаич</patronymic>
+                            <patronymic>Николаевич</patronymic>
+                            <surname>Болконский</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Tikhon_Shtcherbatov">
+                        <persName>
+                            <forename>Тихон</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="Mademoiselle_Bourienne"> </person>
+                    <person xml:id="Wolzogen">
+                        <persName>
+                            <surname>Вольцоген</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Miloradovich">
+                        <persName>
+                            <surname>Милорадович</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Piotr_Petrovich_Konovnitsyn">
+                        <persName>
+                            <forename>Петр</forename>
+                            <patronymic>Петрович</patronymic>
+                            <surname>Коновницын</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="General_Davoust">
+                        <persName>
+                            <surname>Даву</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Capt._von_Toll">
+                        <persName>
+                            <forename>Толь</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="Gerasim">
+                        <persName>
+                            <forename>Герасим</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="Weyrother">
+                        <persName>
+                            <surname>Вейротер</surname>
+                            <surname>Вейротеру</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Timohin">
+                        <persName>
+                            <surname>Тимохин</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Michaud">
+                        <persName>
+                            <surname>Мишо</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Zherkov">
+                        <persName>
+                            <surname>Жерков</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Nikolai_Rostov">
+                        <persName>
+                            <forename>Николай</forename>
+                            <forename type="diminutive">Николенька</forename>
+                            <forename type="diminutive">Николушка</forename>
+                            <forename type="diminutive">Коля</forename>
+                            <patronymic>Ильич</patronymic>
+                            <surname>Ростов</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Countess_Natalya_Rostova">
+                        <persName>
+                            <roleName>графиня</roleName>
+                            <surname>Ростова</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Platon_Karataev">
+                        <persName>
+                            <forename>Платон</forename>
+                            <surname>Каратаев</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Raevsky">
+                        <persName>
+                            <surname>Раевский</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Dunyasha">
+                        <persName>
+                            <forename>Дуняша</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="Vasili_Kuragin">
+                        <persName>
+                            <forename>Василий</forename>
+                            <patronymic>Сергеевич</patronymic>
+                            <patronymic>Сергеич</patronymic>
+                            <surname>Курагин</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="NatashaRostova">
+                        <persName>
+                            <forename type="official">Наталья</forename>
+                            <forename type="colloq">Наташка</forename>
+                            <forename>Наташа</forename>
+                            <patronymic>Ильинишна</patronymic>
+                            <surname>Ростова</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Danilo">
+                        <persName>
+                            <forename>Данила</forename>
+                            <surname>Терентьич</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Telyanin">
+                        <persName>
+                            <surname>Телянин</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Marya_Dmitriyevna_Akhrosimova">
+                        <persName>
+                            <forename>Марья</forename>
+                            <patronymic>Дмитриевна</patronymic>
+                            <surname>Ахросимова</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Prince_Nesvitsky">
+                        <persName>
+                            <surname>Несвицкий</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Paisi_Kaysarov">
+                        <persName>
+                            <surname>Кайсаров</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Count_Bennigsen">
+                        <persName>
+                            <surname>Бенигсен</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Vasily__Vasska__Denisov">
+                        <persName>
+                            <forename>Вася</forename>
+                            <forename  type="diminutive">Василий</forename>
+                            <forename type="diminutive">Васька</forename>
+                            <patronymic type="diminutive">Дмитрич</patronymic>
+                            <surname>Денисов</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Yakov_Alpatych">
+                        <persName>
+                            <forename>Яков</forename>
+                            <surname>Алпатыч</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Lieutenant_Alphonse_Karlovich_Berg">
+                        <persName>
+                            <forename>Альфонс</forename>
+                            <surname>Берг</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Prince_Bagration">
+                        <persName>
+                            <forename>Петр</forename>
+                            <surname>Багратион</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Hippolyte_Kuragin">
+                        <persName>
+                            <forename>Ипполит</forename>
+                            <surname>Курагин</surname>
+                        </persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <creation>
+                <date notAfter="1873" notBefore="1863"> 1863 — 1869, 1873 </date>
+                <rs type="country"> Россия </rs>
+            </creation>
+            <textClass> </textClass>
+            <preparedness> finished </preparedness>
+            <settingDesc>
+                <time> XIX век </time>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+            <div n="11" type="chapter" xml:id="11chapter1part1Volume">
+                <p> </p>
+                <p><s>XI</s> </p>
+                <p><s><rs ref="Countess_Natalya_Rostova"><role type="experiencer"
+                            >Графиня</role></rs> так устала от визитов, что не велела принимать
+                        больше никого, и <rs><role type="addressee">швейцару</role></rs> приказано
+                        было только звать непременно кушать всех, кто будет еще приезжать с
+                        поздравлениями.</s>
+                    <s><asyntLinkWide left_side="Princess_Anna_Mikhaylovna_Drubetskaya"
+                        right_side="Countess_Natalya_Rostova"><rs ref="Countess_Natalya_Rostova" target="#11113"><role type="experiencer"
+                                    >Графине</role></rs> хотелось с глазу на глаз поговорить с
+                            другом <rs><rs ref="Countess_Natalya_Rostova" ><role
+                                        type="possessor">своего</role></rs></rs> детства, <rs
+                                ref="Princess_Anna_Mikhaylovna_Drubetskaya" xml:id="11113">княгиней
+                                Анной Михайловной</rs>, <rs
+                                ref="Princess_Anna_Mikhaylovna_Drubetskaya" xml:id="11114"
+                                >которую</rs>
+                            <rs ref="Countess_Natalya_Rostova" target="11114"><role
+                                    type="experiencer">она</role></rs> не видала хорошенько с
+                                    <rs><rs ref="Countess_Natalya_Rostova"><role
+                                        type="agent">ее</role></rs></rs> приезда из
+                            Петербурга.</asyntLinkWide></s>
+                    <s><rs ref="Princess_Anna_Mikhaylovna_Drubetskaya"><role type="agent">Анна
+                                Михайловна</role></rs>, с <rs
+                            ref="Princess_Anna_Mikhaylovna_Drubetskaya">своим</rs> исплаканным и
+                        приятным лицом, подвинулась ближе к креслу <rs><role type="possessor"
+                                >графини</role></rs>.</s> </p>
+                <p><s>- С <rs ref="Countess_Natalya_Rostova" target="#222221">тобой</rs>
+                    <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya" xml:id="222221"><role type="object"
+                            >я</role></rs> буду совершенно откровенна,- сказала <rs
+                            ref="Princess_Anna_Mikhaylovna_Drubetskaya"><role type="agent">Анна
+                                Михайловна</role></rs>.- Уж мало нас осталось, старых друзей!</s>
+                    <s>От этого <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya"><role
+                                type="experiencer">я</role></rs> так и дорожу <rs><role
+                                type="experiencer">твоею</role></rs> дружбой.</s> </p>
+                <p><s><asyntLinkWide left_side="Vera_Rostova"
+                            right_side="Princess_Anna_Mikhaylovna_Drubetskaya"><rs
+                                ref="Princess_Anna_Mikhaylovna_Drubetskaya" target="#111145"><role
+                                    type="agent">Анна Михайловна</role></rs> посмотрела на <rs
+                                ref="Vera_Rostova" xml:id="111145"><role type="object"
+                                >Веру</role></rs> и остановилась.</asyntLinkWide></s>
+                    <s><rs ref="Countess_Natalya_Rostova"><role type="agent">Графиня</role></rs>
+                        пожала руку <rs ref="Countess_Natalya_Rostova">своему</rs>
+                        <rs><role type="object">другу</role></rs>.</s> </p>
+                <p><s>- <rs ref="Vera_Rostova">Вера</rs>,- сказала <rs
+                            ref="Countess_Natalya_Rostova"><role type="agent">графиня</role></rs>,
+                        обращаясь к старшей <rs>дочери</rs>, очевидно, нелюбимой.- Как у вас ни на
+                        что понятия нет?</s>
+                    <s>Разве <rs>ты</rs> не чувствуешь, что <rs>ты</rs> здесь лишняя?</s>
+                    <s>Поди к сестрам, или...</s> </p>
+                <p><s>Красивая <rs ref="Vera_Rostova"><role type="agent">Вера</role></rs>
+                        презрительно улыбнулась, видимо, не чувствуя ни малейшего
+                    оскорбления.</s> </p>
+                <p><s><asyntLinkWide left_side="Nikolai_Rostov" right_side="Sonya_Rostova"
+                                ><asyntLinkWide left_side="Boris_Drubetskoy"
+                                right_side="NatashaRostova">- Ежели бы <rs><role type="agent"
+                                        >вы</role></rs>
+                                <rs><role type="addressee">мне</role></rs> сказали давно,
+                                    <rs>маменька</rs>, <rs><role type="agent">я</role></rs> бы
+                                тотчас ушла,- сказала <rs ref="Vera_Rostova">она</rs> и пошла в <rs
+                                    ref="Vera_Rostova">свою</rs> комнату. Но, проходя мимо диванной,
+                                    <rs ref="Vera_Rostova">она</rs> заметила, что в ней у двух
+                                окошек симметрично сидели две пары. <rs ref="Vera_Rostova">Она</rs>
+                                остановилась и презрительно улыбнулась. <rs ref="Sonya_Rostova"
+                                    target="#11117"><role type="agent">Соня</role></rs> сидела
+                                близко подле <rs ref="Nikolai_Rostov" xml:id="11117">Николая</rs>,
+                                    <rs ref="Nikolai_Rostov" xml:id="11117">который</rs> переписывал
+                                    <rs ref="Sonya_Rostova" xml:id="11117">ей</rs> стихи, в первый
+                                раз сочиненные <rs ref="Nikolai_Rostov" xml:id="11117"><role
+                                        type="agent">им</role></rs>. <rs ref="Boris_Drubetskoy"
+                                    target="#11119"><role type="agent">Борис</role></rs> с <rs
+                                    ref="NatashaRostova" xml:id="11119"><role type="agent"
+                                        >Наташей</role></rs> сидели у другого окна и замолчали,
+                                когда вошла <rs ref="Vera_Rostova"><role type="agent"
+                                    >Вера</role></rs>.</asyntLinkWide></asyntLinkWide></s>
+                    <s><asyntLinkWide left_side="NatashaRostova" right_side="Sonya_Rostova"><rs
+                                ref="Sonya_Rostova" target="#111111"><role type="agent"
+                                >Соня</role></rs> и <rs ref="NatashaRostova" xml:id="111111"><role
+                                    type="agent">Наташа</role></rs> с виноватыми и счастливыми
+                            лицами взглянули на <rs ref="Vera_Rostova"><role type="object"
+                                    >Веру</role></rs>.</asyntLinkWide></s> </p>
+                <p><s>Весело и трогательно было смотреть на этих влюбленных девочек, но вид <rs
+                            ref="NatashaRostova"><role type="object">их</role></rs>, очевидно, не
+                        возбуждал в <rs ref="Vera_Rostova"><role type="experiencer">Вере</role></rs>
+                        приятного чувства.</s> </p>
+                <p><s><asyntLinkWide left_side="Vera_Rostova" right_side="Nikolai_Rostov">- Сколько
+                            раз <rs ref="Vera_Rostova"><role type="agent"
+                                >я</role></rs> вас просила,- сказала <rs ref="Vera_Rostova"
+                               >она</rs>,- не брать <rs><role type="possessor"
+                                    >моих</role></rs> вещей, у вас есть своя комната.- <rs
+                                ref="Vera_Rostova" xml:id="111113">Она</rs> взяла от <rs
+                                ref="Nikolai_Rostov" target="111113">Николая</rs>
+                            чернильницу.</asyntLinkWide></s> </p>
+                <p><s>- Сейчас, сейчас,- сказал <rs ref="Nikolai_Rostov"><role type="agent"
+                                >он</role></rs>, макая перо.</s> </p>
+                <p><s>- Вы все умеете делать не вовремя,- сказала <rs ref="Vera_Rostova"><role
+                                type="agent">Вера</role></rs>.- То прибежали в гостиную, так что
+                        всем совестно сделалось за вас.</s> </p>
+                <p><s>Несмотря на то, или именно потому, что сказанное <rs ref="Vera_Rostova"><role
+                                type="agent">ею</role></rs> было совершенно справедливо, никто <rs
+                            ref="Vera_Rostova">ей</rs> не отвечал, и все четверо только
+                        переглядывались между собой.</s>
+                    <s><rs ref="Vera_Rostova">Она</rs> медлила в комнате с чернильницей в
+                    руке.</s> </p>
+                <p><s><asyntLinkWide left_side="NatashaRostova" right_side="Boris_Drubetskoy">- И
+                            какие могут быть в <rs ref="Boris_Drubetskoy" target="#111114"><role
+                                    type="object">ваши</role></rs> года секреты между <rs
+                                ref="NatashaRostova" xml:id="111114">Наташей</rs> и <rs
+                                ref="Boris_Drubetskoy" target="#111114">Борисом</rs> и между вами,-
+                            все одни глупости.</asyntLinkWide></s> </p>
+                <p><s>- Ну, что <rs ref="Vera_Rostova"><rs>тебе</rs></rs> за дело, <rs
+                            ref="Vera_Rostova">Вера</rs>? - тихоньким голоском, заступнически
+                        проговорила <rs ref="NatashaRostova"><role type="agent"
+                        >Наташа</role></rs>.</s> </p>
+                <p><s><rs ref="NatashaRostova">Она</rs>, видимо, была ко всем еще более, чем всегда,
+                        в этот день добра и ласкова.</s> </p>
+                <p><s>- Очень глупо,- сказала <rs ref="Vera_Rostova"><role type="agent"
+                            >Вера</role></rs>,- <rs ref="Vera_Rostova">мне</rs> совестно за <rs
+                            ref="Vera_Rostova">вас</rs>.</s>
+                    <s>Что за секреты?..</s> </p>
+                <p><s>- У каждого свои секреты. Мы <role type="object"><rs ref="Vera_Rostova" target ="#111111118">тебя</rs> с <rs
+                    ref="Lieutenant_Alphonse_Karlovich_Berg" xml:id="111111118">Бергом</rs></role> не
+                        трогаем,- сказала <rs ref="NatashaRostova"><role type="agent"
+                            >Наташа</role></rs>, разгорячась.</s> </p>
+                <p><s>- <rs><role type="experiencer">Я</role></rs> думаю, не трогаете,- сказала <rs
+                            ref="Vera_Rostova"><role type="agent">Вера</role></rs>,- потому что в
+                                <rs><role type="agent">моих</role></rs> поступках никогда ничего не
+                        может быть дурного.</s>
+                    <s>А вот <rs>я</rs>
+                        <rs><role type="addressee">маменьке</role></rs> скажу, как <role
+                            type="object"><rs>ты</rs> с <rs ref="Boris_Drubetskoy"
+                            >Борисом</rs></role> обходишься.</s> </p>
+                <p><s>- <rs ref="NatashaRostova"><role type="agent">Наталья Ильинишна</role></rs>
+                        очень хорошо со <rs>мной</rs> обходится,- сказал <rs ref="Boris_Drubetskoy"
+                                ><role type="agent">Борис</role></rs>.</s><s>- <rs>Я</rs> не могу
+                        жаловаться,- сказал <rs ref="Boris_Drubetskoy">он</rs>.</s> </p>
+                <p><s>- Оставьте, <role type="agent"><rs ref="Boris_Drubetskoy">Борис</rs>, <rs
+                                ref="Boris_Drubetskoy">вы</rs></role> такой дипломат (слово
+                            <rs>дипломат</rs> было в большом ходу у детей в том особом значении,
+                        какое они придавали этому слову); даже скучно,- сказала <rs
+                            ref="NatashaRostova"><role type="agent">Наташа</role></rs> оскорбленным,
+                        дрожащим голосом.- За что <rs ref="Boris_Drubetskoy">она</rs> ко
+                            <rs>мне</rs> пристает?</s> </p>
+                <p><s><asyntLinkWide left_side="Nikolai_Rostov" right_side="Vera_Rostova">-
+                                    <rs><role type="experiencer">Ты</role></rs> этого никогда не
+                    поймешь,- сказала <rs ref="NatashaRostova" xml:id="1111115"><role type="agent"
+                                >она</role></rs>, обращаясь к <rs ref="Vera_Rostova"
+                                target="#1111115">Вере</rs>,- потому что <rs><role type="experiencer"
+                                    >ты</role></rs> никогда никого не любила; у <rs><role
+                                    type="possessor">тебя</role></rs> сердца нет, <rs>ты</rs> только
+                            madame de Genlis (это прозвище, считавшееся очень обидным, было дано <rs
+                                ref="Vera_Rostova" xml:id="111115"><role type="possessor"
+                                    >Вере</role></rs>
+                            <rs ref="Nikolai_Rostov" target="#111115"><role type="agent"
+                                    >Николаем</role></rs>), и <rs><role type="experiencer"
+                                    >твое</role></rs> первое удовольствие - делать неприятности
+                            другим.</asyntLinkWide></s>
+                    <s><rs><role type="agent">Ты</role></rs> кокетничай с <rs
+                            ref="Lieutenant_Alphonse_Karlovich_Berg"><role type="object"
+                                >Бергом</role></rs> сколько хочешь,- проговорила она скоро.</s> </p>
+                <p><s>- Да уж <rs><role type="agent">я</role></rs>, верно, не стану перед гостями
+                        бегать за <rs>молодым человеком</rs>...</s> </p>
+                <p><s>- Ну, добилась своего,- вмешался <rs ref="Nikolai_Rostov"><role type="agent"
+                                >Николай</role></rs>,- наговорила всем неприятностей, расстроила
+                        всех. Пойдемте в детскую.</s> </p>
+                <p><s>Все четверо, как спугнутая стая птиц, поднялись и пошли из комнаты.</s> </p>
+                <p><s>- <rs><role type="addressee">Мне</role></rs> наговорили неприятностей, а
+                            <rs>я</rs> никому ничего,- сказала <rs ref="Vera_Rostova"><role
+                                type="agent">Вера</role></rs>.</s> </p>
+                <p><s>- Madame de Genlis! Madame de Genlis! - проговорили смеющиеся голоса из-за
+                        двери.</s> </p>
+                <p><s>Красивая <rs ref="Vera_Rostova"><role type="agent">Вера</role></rs>,
+                        производившая на всех такое раздражающее, неприятное действие, улыбнулась и,
+                        видимо, не затронутая тем, что <rs ref="Vera_Rostova">ей</rs> было сказано,
+                        подошла к зеркалу и оправила шарф и прическу: глядя на <rs
+                            ref="Vera_Rostova">свое</rs> красивое лицо, <rs ref="Vera_Rostova"><role
+                                type="object">она</role></rs> стала, по-видимому, еще холоднее и
+                        спокойнее.</s> </p>
+                <p><s>В гостиной продолжался разговор.</s> </p>
+                <p><s>- Ah!</s>
+                    <s>chère,- говорила <rs ref="Countess_Natalya_Rostova"><role type="agent"
+                                >графиня</role></rs>,- и в <rs><role type="agent">моей</role></rs>
+                        жизни tout n'est pas rose. Разве <rs>я</rs> не вижу, что du train que nous
+                        allons нашего состояния нам ненадолго.</s>
+                    <s>И все это клуб и его доброта.</s>
+                    <s>В деревне мы живем, разве мы отдыхаем?</s>
+                    <s>Театры, охоты и бог знает что.</s>
+                    <s>Да что обо <rs>мне</rs> говорить!</s>
+                    <s>Ну, как же <rs><role type="agent">ты</role></rs> это все устроила?</s>
+                    <s><rs><role type="experiencer">Я</role></rs> часто на <rs>тебя</rs> удивляюсь,
+                        Annette, как это <rs>ты</rs>, в <rs><role type="object">твои</role></rs>
+                        годы, скачешь в повозке одна, в Москву, в Петербург, ко всем министрам, ко
+                        всей знати, со всеми умеешь обойтись, удивляюсь!</s>
+                    <s>Ну, как же это устроилось?</s>
+                    <s>Вот <rs><role type="experiencer">я</role></rs> ничего этого не умею.</s> </p>
+                <p><s>- Ах, душа <rs><role type="object">моя</role></rs>! - отвечала <rs
+                            ref="Princess_Anna_Mikhaylovna_Drubetskaya"><role type="agent">княгиня
+                                Анна Михайловна</role></rs>.- Не дай бог <rs><role type="agent"
+                                >тебе</role></rs> узнать, как тяжело остаться вдовой без подпоры и с
+                                <rs><role type="possessor">сыном</role></rs>, <rs>которого</rs>
+                        любишь до обожания. Всему научишься,- продолжала она с некоторой гордостью.-
+                        Процесс <rs><role type="object">мой</role></rs>
+                        <rs><role type="experiencer">меня</role></rs> научил. Ежели <rs><role
+                                type="experiencer">мне</role></rs> нужно видеть кого-нибудь из этих
+                        тузов, <rs><role type="agent">я</role></rs> пишу записку: 'Princesse une
+                        telle желает видеть такого-то'- и еду сама на <rs>извозчике</rs>, хоть два,
+                        хоть три раза, хоть четыре - до тех пор, пока не добьюсь того, что <rs><role
+                                type="experiencer">мне</role></rs> надо. <rs>Мне</rs> все равно, что
+                        бы обо <rs>мне</rs> ни думали.</s> </p>
+                <p><s>- Ну, как же, кого <rs target="#1111119"><role type="agent">ты</role></rs> просила о <rs
+                    ref="Boris_Drubetskoy" xml:id="1111119">Бореньке</rs>? - спросила <rs
+                            ref="Countess_Natalya_Rostova"><role type="agent">графиня</role></rs>.-
+                        Ведь вот <rs><role type="possessor">твой</role></rs> уж <rs>офицер</rs>
+                        гвардии, а Николушка идет <rs>юнкером</rs>. Некому похлопотать. <rs>Ты</rs>
+                        кого просила?</s> </p>
+                <p><s>- <rs ref="Vasili_Kuragin"><role type="object">Князя Василия</role></rs>. <rs
+                            ref="Vasili_Kuragin"><role type="object">Он</role></rs> был очень мил.
+                        Сейчас на все согласился, доложил <rs ref="Tsar_Alexander_I_of_Russia"><role
+                                type="addressee">государю</role></rs>,- говорила <rs
+                            ref="Princess_Anna_Mikhaylovna_Drubetskaya"><role type="agent">княгиня
+                                Анна Михайловна</role></rs> с восторгом, совершенно забыв все
+                        унижение, через которое <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya"
+                                ><role type="object">она</role></rs> прошла для достижения <rs
+                            ref="Princess_Anna_Mikhaylovna_Drubetskaya"><role type="experiencer"
+                                >своей</role></rs> цели.</s> </p>
+                <p><s>- Что <rs ref="Vasili_Kuragin">он</rs>, постарел, <rs ref="Vasili_Kuragin"
+                            >князь Василий</rs>? - спросила <rs ref="Countess_Natalya_Rostova"><role
+                                type="agent">графиня</role></rs>.</s><s>- <rs ref="Countess_Natalya_Rostova"><role
+                                type="experiencer">Я</role></rs>
+                        <rs ref="Vasili_Kuragin"><role type="object">его</role></rs> не видала с
+                        наших театров у Румянцевых. И думаю, забыл про <rs>меня</rs>. Il me faisait
+                        la cour,- вспомнила <rs ref="Countess_Natalya_Rostova"><role
+                                type="experiencer">графиня</role></rs> с улыбкой.</s> </p>
+                <p><s>- Все такой же,- отвечала <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya"
+                                ><role type="agent">Анна Михайловна</role></rs>,- любезен,
+                        рассыпается. Les grandeurs ne lui ont pas tourné la tête du tout. '<rs><role
+                                type="experiencer">Я</role></rs> жалею, что слишком мало могу
+                                <rs><role type="experiencer">вам</role></rs> сделать, милая
+                            <rs>княгиня</rs>,- он <rs><role type="addressee">мне</role></rs>
+                        говорит,- приказывайте'. Нет, он славный <rs>человек</rs> и родной
+                        прекрасный. Но ты знаешь, Nathalie, <rs><role type="experiencer"
+                            >мою</role></rs> любовь к <rs><role type="object">сыну</role></rs>.</s>
+                    <s><rs><role type="experiencer">Я</role></rs> не знаю, чего <rs><role
+                                type="agent">я</role></rs> не сделала бы для <rs><role
+                                type="experiencer">его</role></rs> счастия.</s>
+                    <s>А обстоятельства <rs><role type="object">мои</role></rs> до того дурны,-
+                        продолжала <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya"><role
+                                type="agent">Анна Михайловна</role></rs> с грустью и понижая голос,-
+                        до того дурны, что <rs>я</rs> теперь в самом ужасном положении.</s>
+                    <s><rs>Мой</rs>
+                        <rs>несчастный</rs> процесс съедает все, что <rs>я</rs> имею, и не
+                        подвигается.</s>
+                    <s>У <rs>меня</rs> нет, можешь <rs>себе</rs> представить, à la lettre нет
+                        гривенника денег, и <rs>я</rs> не знаю, на что обмундировать <rs
+                            ref="Boris_Drubetskoy"><role type="possessor">Бориса</role></rs>.</s>
+                    <s>- Она вынула платок и заплакала.</s><s>- <rs>Мне</rs> нужно пятьсот рублей, а
+                        у <rs>меня</rs> одна двадцатипятирублевая бумажка. <rs>Я</rs> в таком
+                        положении... Одна <rs><role type="experiencer">моя</role></rs> надежда
+                        теперь на <rs><role type="object">графа Кирилла Владимировича</role>
+                            Безухова</rs>. Ежели <rs><role type="experiencer">он</role></rs> не
+                        захочет поддержать <rs>своего</rs>
+                        <rs><role type="object">крестника</role></rs>,- ведь <rs>он</rs> крестил <rs
+                            ref="Boris_Drubetskoy"><role type="object">Борю</role></rs>,- и
+                        назначить <rs><role type="benemalefactive">ему</role></rs> что-нибудь на
+                        содержание, то все <rs><role type="agent">мои</role></rs> хлопоты пропадут:
+                                <rs><role type="agent">мне</role></rs> не на что будет обмундировать
+                                <rs><role type="possessor">его</role></rs>.</s> </p>
+                <p><s><rs ref="Countess_Natalya_Rostova"><role type="agent">Графиня</role></rs>
+                        прослезилась и молча соображала что-то.</s> </p>
+                <p><s>- Часто думаю, может, это и грех,- сказала <rs><role type="agent"
+                                >княгиня</role></rs>,- а часто думаю: вот <rs><role
+                                type="experiencer">граф Кирилл Владимирович</role> Безухов</rs>
+                        живет один... это огромное состояние... и для чего живет?</s>
+                    <s><rs><role type="agent">Ему</role></rs> жизнь в тягость, а Боре только
+                        начинать жить.</s> </p>
+                <p><s>- <rs>Он</rs>, верно, оставит что-нибудь <rs ref="Boris_Drubetskoy"><role
+                                type="possessor">Борису</role></rs>,- сказала <rs><role type="agent"
+                                >графиня</role></rs>.</s> </p>
+                <p><s>- Бог знает, chère amie!</s>
+                    <s>Эти богачи и вельможи такие эгоисты.</s>
+                    <s>Но <rs><role type="agent">я</role></rs> все-таки поеду сейчас к нему с <rs
+                            ref="Boris_Drubetskoy">Борисом</rs> и прямо скажу, в чем дело.</s>
+                    <s>Пускай обо <rs>мне</rs> думают, что хотят, <rs>мне</rs>, право, все равно,
+                        когда судьба <rs><role type="experiencer">сына</role></rs> зависит от
+                        этого.</s><s>- <rs><role type="agent">Княгиня</role></rs> поднялась.- Теперь
+                        два часа, а в четыре часа вы обедаете.</s>
+                    <s><rs>Я</rs> успею съездить.</s> </p>
+                <p><s>И с приемами петербургской деловой <rs><role type="agent">барыни</role></rs>,
+                        умеющей пользоваться временем, <rs
+                            ref="Princess_Anna_Mikhaylovna_Drubetskaya"><role type="agent">Анна
+                                Михайловна</role></rs> послала за <rs>сыном</rs> и вместе с
+                            <rs>ним</rs> вышла в переднюю.</s> </p>
+                <p><s>- Прощай, <rs>душа</rs>
+                        <rs><rs>моя</rs></rs>,- сказала <rs
+                            ref="Princess_Anna_Mikhaylovna_Drubetskaya" xml:id="112112"><rs>она</rs></rs>
+                    <rs ref="Countess_Natalya_Rostova" target ="#112112"><role type="addressee">графине</role></rs>, <rs>которая</rs> провожала
+                            <rs ref="Princess_Anna_Mikhaylovna_Drubetskaya"><rs>ее</rs></rs> до
+                        двери,- пожелай <rs><rs>мне</rs></rs> успеха,- прибавила <rs
+                            ref="Princess_Anna_Mikhaylovna_Drubetskaya"><rs>она</rs></rs> шепотом от
+                            <rs>сына</rs>.</s> </p>
+                <p><s>- Вы к <rs><role type="benemalefactive">графу Кириллу
+                            Владимировичу</role></rs>, ma chère? - сказал <rs
+                            ref="Count_Ilya_Rostov"><role type="agent">граф</role></rs> из столовой,
+                        выходя тоже в переднюю.- Коли <rs><rs>ему</rs></rs> лучше, зовите <rs
+                            ref="Pierre_Bezukhov"><role type="object">Пьера</role></rs> ко
+                                <rs><rs>мне</rs></rs> обедать. Ведь <rs><rs><role type="object"
+                                    >он</role></rs></rs> у <rs><rs>меня</rs></rs> бывал, с детьми
+                        танцевал. Зовите непременно, ma chère. Ну, посмотрим, как-то отличится нынче
+                                <rs><role type="object">Тарас</role></rs>. Говорит, что у <rs><role
+                                type="possessor">графа Орлова</role></rs> такого обеда не бывало,
+                        какой у нас будет.</s>  </p>
+            </div>
+        </body>
+    </text>
+</TEI>

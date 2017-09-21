@@ -57,7 +57,7 @@ $(document).ready(function(){
     }).appendTo($('body'))[0].getContext('2d');
 
     // draw line between target and source
-    c.strokeStyle = '#1356c1';
+    c.strokeStyle = '#663300';
     c.lineWidth = 3;
     c.beginPath();
     c.moveTo(ot.x - p.x, ot.y - p.y);
@@ -65,7 +65,7 @@ $(document).ready(function(){
     c.stroke();
     
     // draw line up source
-    c.strokeStyle = '#1356c1';
+    c.strokeStyle = '#663300';
     c.lineWidth = 3;
     c.beginPath();
     c.moveTo(ot.x - p.x, ot.y - p.y);
@@ -73,7 +73,7 @@ $(document).ready(function(){
     c.stroke();
     
     // draw line up target
-    c.strokeStyle = '#1356c1';
+    c.strokeStyle = '#663300';
     c.lineWidth = 3;
     c.beginPath();
     c.moveTo(oi.x - p.x, oi.y - p.y);
