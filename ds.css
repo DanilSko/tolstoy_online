@@ -3,7 +3,7 @@ body {
   padding-top: 3.5rem;
 }
 
-.jumbotron {background-image: url(dhlogo.png);
+.jumbotron {/*background-image: url(dhlogo.png);*/
 background-size:20%;
 background-position:right top;
 background-repeat:no-repeat;} 
