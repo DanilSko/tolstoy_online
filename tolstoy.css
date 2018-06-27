@@ -21,9 +21,11 @@ h2 {
 
 .person 
 	{
-	color:#01a859;
+	
 	font-weight: bold;
-	/*background-color:#f7ed5d;*/
+	/*
+	color:#01a859;
+	background-color:#f7ed5d;*/
 }
 
 .sem_role {
@@ -79,6 +81,22 @@ h2 {
 @keyframes fadeIn {
     from {opacity: 0;}
     to {opacity:1 ;}
+}
+
+
+.link {
+  stroke: #aaa;
+}
+
+.node text {
+stroke:#333;
+cursos:pointer;
+}
+
+.node circle{
+stroke:#fff;
+stroke-width:3px;
+fill:#555;
 }
 
 

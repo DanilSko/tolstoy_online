@@ -1,12 +1,19 @@
 /* Move down content because we have a fixed navbar that is 3.5rem tall */
 body {
   padding-top: 3.5rem;
+  /*background-image: url(tolstoytoshow.png);*/
 }
 
 .jumbotron {/*background-image: url(dhlogo.png);*/
-background-size:20%;
+
+/*
+background-image: url(tolstoytoshow.png); 
+background-size:60%;
+
+background-image: url(tolstoytoshow.png);
+background-size:60%;
 background-position:right top;
-background-repeat:no-repeat;} 
+background-repeat:no-repeat;} */
 
 
 .btn-info {position:relative;right:10px;}
