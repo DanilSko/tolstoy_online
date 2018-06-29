@@ -10,7 +10,7 @@
          <li><button id="speech_view_on" data-toggle="tab">Показать реплики</button></li>
       </ul> 
       <div class="row">
-      <div class="col-sm-8">
+      <div class="col-sm-9">
       <h2>Текст главы</h2>
       <p></p>
       
@@ -376,7 +376,7 @@
          Ce sera dans votre famille que je ferai mon apprentissage de vieille fille.     
       </p>
       </div>
-      <div class="col-sm-4">
+      <div class="col-sm-3">
       <h2> Сеть разговоров в главе</h2>
       <script>
 
@@ -390,7 +390,7 @@ var svg = d3.select(".col-sm-4").append("svg")
 var force = d3.layout.force()
     .gravity(.05)
     .distance(100)
-    .charge(-50)
+    .charge(-100)
     .size([width, height]);
 
 d3.json("graphFile.json", function(json) {
@@ -412,7 +412,7 @@ d3.json("graphFile.json", function(json) {
       .call(force.drag);
 
   node.append("circle")
-      .attr("r","12");
+      .attr("r","5");
 
   node.append("text")
       .attr("dx", 12)
