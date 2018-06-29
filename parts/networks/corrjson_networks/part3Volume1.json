@@ -22,7 +22,7 @@
         "Betweenness Centrality": "16.0"
       },
       "color": "rgb(0,239,255)",
-      "size": 15.948991775512695
+      "weight": 15.948991775512695
     },
     {
       "name": "офицеры",
@@ -46,7 +46,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,168,235)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Анатоль Курагин",
@@ -70,7 +70,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(0,239,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Василий Курагин",
@@ -94,7 +94,7 @@
         "Betweenness Centrality": "184.16666666666669"
       },
       "color": "rgb(255,114,17)",
-      "size": 25.923290252685547
+      "weight": 25.923290252685547
     },
     {
       "name": "шутник",
@@ -118,7 +118,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(0,144,123)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "пожилая дама",
@@ -142,7 +142,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,114,17)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "генерал",
@@ -166,7 +166,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "унтер-офицер",
@@ -190,7 +190,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,129,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "берейтор",
@@ -214,7 +214,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(0,144,123)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "полк",
@@ -238,7 +238,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Берг",
@@ -262,7 +262,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,129,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "гусар",
@@ -286,7 +286,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,129,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Тихон (слуга)",
@@ -310,7 +310,7 @@
         "Betweenness Centrality": "16.0"
       },
       "color": "rgb(0,239,255)",
-      "size": 15.948991775512695
+      "weight": 15.948991775512695
     },
     {
       "name": "адъютант",
@@ -334,7 +334,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(155,97,0)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Александр I",
@@ -358,7 +358,7 @@
         "Betweenness Centrality": "146.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 23.659549713134766
+      "weight": 23.659549713134766
     },
     {
       "name": "Борис Друбецкой",
@@ -382,7 +382,7 @@
         "Betweenness Centrality": "13.500000000000004"
       },
       "color": "rgb(255,129,255)",
-      "size": 15.800711631774902
+      "weight": 15.800711631774902
     },
     {
       "name": "Наташа Ростова",
@@ -406,7 +406,7 @@
         "Betweenness Centrality": "44.0"
       },
       "color": "rgb(74,70,120)",
-      "size": 17.60972785949707
+      "weight": 17.60972785949707
     },
     {
       "name": "Репнин",
@@ -430,7 +430,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(247,22,104)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "дама",
@@ -454,7 +454,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,114,17)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Анна Шерер",
@@ -478,7 +478,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,114,17)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "альзасец",
@@ -502,7 +502,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,129,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "денщик",
@@ -526,7 +526,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,129,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "павлоградцы",
@@ -550,7 +550,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Билибин",
@@ -574,7 +574,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "архитектор Болконских",
@@ -598,7 +598,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(0,239,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "княгиня Курагина",
@@ -622,7 +622,7 @@
         "Betweenness Centrality": "34.0"
       },
       "color": "rgb(255,114,17)",
-      "size": 17.0166072845459
+      "weight": 17.0166072845459
     },
     {
       "name": "другой офицер",
@@ -646,7 +646,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,129,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Кутузов",
@@ -670,7 +670,7 @@
         "Betweenness Centrality": "253.16666666666669"
       },
       "color": "rgb(183,209,95)",
-      "size": 30.01581573486328
+      "weight": 30.01581573486328
     },
     {
       "name": "Катишь",
@@ -694,7 +694,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,114,17)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Чарторижский",
@@ -718,7 +718,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Катя",
@@ -742,7 +742,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(0,239,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Сухтелен",
@@ -766,7 +766,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(247,22,104)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "горничная",
@@ -790,7 +790,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(0,239,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Несвицкий",
@@ -814,7 +814,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "граф Ростов",
@@ -838,7 +838,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(74,70,120)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "полковой командир",
@@ -862,7 +862,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "адъютант",
@@ -886,7 +886,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Соня Ростова",
@@ -910,7 +910,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(74,70,120)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Денисов",
@@ -934,7 +934,7 @@
         "Betweenness Centrality": "54.0"
       },
       "color": "rgb(255,129,255)",
-      "size": 18.20284652709961
+      "weight": 18.20284652709961
     },
     {
       "name": "Багратион",
@@ -958,7 +958,7 @@
         "Betweenness Centrality": "36.166666666666664"
       },
       "color": "rgb(255,129,255)",
-      "size": 17.145116806030273
+      "weight": 17.145116806030273
     },
     {
       "name": "адъютант",
@@ -982,7 +982,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(247,22,104)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Николай Ростов",
@@ -1006,7 +1006,7 @@
         "Betweenness Centrality": "388.16666666666663"
       },
       "color": "rgb(255,129,255)",
-      "size": 38.02293395996094
+      "weight": 38.02293395996094
     },
     {
       "name": "офицер",
@@ -1030,7 +1030,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(0,228,0)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Долгоруков",
@@ -1054,7 +1054,7 @@
         "Betweenness Centrality": "15.000000000000002"
       },
       "color": "rgb(183,209,95)",
-      "size": 15.889679908752441
+      "weight": 15.889679908752441
     },
     {
       "name": "Милорадович",
@@ -1078,7 +1078,7 @@
         "Betweenness Centrality": "51.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 18.02490997314453
+      "weight": 18.02490997314453
     },
     {
       "name": "толпа",
@@ -1102,7 +1102,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,129,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "m-lle Bourienne",
@@ -1126,7 +1126,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(0,239,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Тит",
@@ -1150,7 +1150,7 @@
         "Betweenness Centrality": "2.0"
       },
       "color": "rgb(0,144,123)",
-      "size": 15.118623733520508
+      "weight": 15.118623733520508
     },
     {
       "name": "солдаты",
@@ -1174,7 +1174,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(155,97,0)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Елизавета Болконская",
@@ -1198,7 +1198,7 @@
         "Betweenness Centrality": "19.166666666666668"
       },
       "color": "rgb(0,239,255)",
-      "size": 16.136812210083008
+      "weight": 16.136812210083008
     },
     {
       "name": "Наполеон",
@@ -1222,7 +1222,7 @@
         "Betweenness Centrality": "87.0"
       },
       "color": "rgb(247,22,104)",
-      "size": 20.16014289855957
+      "weight": 20.16014289855957
     },
     {
       "name": "графиня Ростова",
@@ -1246,7 +1246,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(66,187,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Ланжерон",
@@ -1270,7 +1270,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "офицер",
@@ -1294,7 +1294,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,129,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Вера Ростова",
@@ -1318,7 +1318,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(66,187,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "солдат",
@@ -1342,7 +1342,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,129,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Марья Болконская",
@@ -1366,7 +1366,7 @@
         "Betweenness Centrality": "35.5"
       },
       "color": "rgb(0,239,255)",
-      "size": 17.105575561523438
+      "weight": 17.105575561523438
     },
     {
       "name": "один из гусар",
@@ -1390,7 +1390,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,129,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Петя Ростов",
@@ -1414,7 +1414,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(74,70,120)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Дохтуров",
@@ -1438,7 +1438,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "старый князь Болконский",
@@ -1462,7 +1462,7 @@
         "Betweenness Centrality": "182.16666666666666"
       },
       "color": "rgb(0,239,255)",
-      "size": 25.804664611816406
+      "weight": 25.804664611816406
     },
     {
       "name": "один из офицеров",
@@ -1486,7 +1486,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,168,235)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Вейротер",
@@ -1510,7 +1510,7 @@
         "Betweenness Centrality": "10.5"
       },
       "color": "rgb(183,209,95)",
-      "size": 15.62277603149414
+      "weight": 15.62277603149414
     },
     {
       "name": "А. М. Друбецкая",
@@ -1534,7 +1534,7 @@
         "Betweenness Centrality": "71.0"
       },
       "color": "rgb(74,70,120)",
-      "size": 19.211151123046875
+      "weight": 19.211151123046875
     },
     {
       "name": "солдаты",
@@ -1558,7 +1558,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "пленный",
@@ -1582,7 +1582,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,129,255)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "генерал",
@@ -1606,7 +1606,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Андрей Болконский",
@@ -1630,7 +1630,7 @@
         "Betweenness Centrality": "421.50000000000006"
       },
       "color": "rgb(183,209,95)",
-      "size": 40
+      "weight": 40
     },
     {
       "name": "апшеронцы",
@@ -1654,7 +1654,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(183,209,95)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Элен Курагина",
@@ -1678,7 +1678,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(255,114,17)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "казак",
@@ -1702,7 +1702,7 @@
         "Betweenness Centrality": "28.0"
       },
       "color": "rgb(255,129,255)",
-      "size": 16.660736083984375
+      "weight": 16.660736083984375
     },
     {
       "name": "другой офицер",
@@ -1726,7 +1726,7 @@
         "Betweenness Centrality": "0.0"
       },
       "color": "rgb(0,228,0)",
-      "size": 15
+      "weight": 15
     },
     {
       "name": "Пьер Безухов",
@@ -1750,7 +1750,7 @@
         "Betweenness Centrality": "59.0"
       },
       "color": "rgb(255,114,17)",
-      "size": 18.499406814575195
+      "weight": 18.499406814575195
     }
   ],
   "links": [
@@ -1760,7 +1760,7 @@
       "id": "97",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 56,
@@ -1768,7 +1768,7 @@
       "id": "73",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 22,
@@ -1776,7 +1776,7 @@
       "id": "124",
       "attributes": {},
       "color": "rgb(215,115,99)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 45,
@@ -1784,7 +1784,7 @@
       "id": "43",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 6,
@@ -1792,7 +1792,7 @@
       "id": "118",
       "attributes": {},
       "color": "rgb(219,169,175)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 35,
@@ -1800,7 +1800,7 @@
       "id": "59",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 4,
@@ -1808,7 +1808,7 @@
       "id": "119",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 16,
@@ -1816,7 +1816,7 @@
       "id": "111",
       "attributes": {},
       "color": "rgb(0,144,123)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 4,
@@ -1824,7 +1824,7 @@
       "id": "2",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 14,
@@ -1832,7 +1832,7 @@
       "id": "89",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 37,
@@ -1840,7 +1840,7 @@
       "id": "133",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 6
+      "weight": 6
     },
     {
       "source": 33,
@@ -1848,7 +1848,7 @@
       "id": "51",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 3
+      "weight": 3
     },
     {
       "source": 17,
@@ -1856,7 +1856,7 @@
       "id": "92",
       "attributes": {},
       "color": "rgb(74,70,120)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 37,
@@ -1864,7 +1864,7 @@
       "id": "103",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 0,
@@ -1872,7 +1872,7 @@
       "id": "107",
       "attributes": {},
       "color": "rgb(219,169,175)",
-      "size": 4
+      "weight": 4
     },
     {
       "source": 3,
@@ -1880,7 +1880,7 @@
       "id": "105",
       "attributes": {},
       "color": "rgb(219,169,175)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 37,
@@ -1888,7 +1888,7 @@
       "id": "42",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 23,
@@ -1896,7 +1896,7 @@
       "id": "29",
       "attributes": {},
       "color": "rgb(247,22,104)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 63,
@@ -1904,7 +1904,7 @@
       "id": "102",
       "attributes": {},
       "color": "rgb(74,70,120)",
-      "size": 8
+      "weight": 8
     },
     {
       "source": 24,
@@ -1912,7 +1912,7 @@
       "id": "87",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 37,
@@ -1920,7 +1920,7 @@
       "id": "63",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 32,
@@ -1928,7 +1928,7 @@
       "id": "24",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 30,
@@ -1936,7 +1936,7 @@
       "id": "135",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 0,
@@ -1944,7 +1944,7 @@
       "id": "0",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 3
+      "weight": 3
     },
     {
       "source": 4,
@@ -1952,7 +1952,7 @@
       "id": "39",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 0,
@@ -1960,7 +1960,7 @@
       "id": "74",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 8
+      "weight": 8
     },
     {
       "source": 14,
@@ -1968,7 +1968,7 @@
       "id": "129",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 71,
@@ -1976,7 +1976,7 @@
       "id": "126",
       "attributes": {},
       "color": "rgb(155,97,0)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 20,
@@ -1984,7 +1984,7 @@
       "id": "13",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 39,
@@ -1992,7 +1992,7 @@
       "id": "35",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 8,
@@ -2000,7 +2000,7 @@
       "id": "4",
       "attributes": {},
       "color": "rgb(0,228,0)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 17,
@@ -2008,7 +2008,7 @@
       "id": "11",
       "attributes": {},
       "color": "rgb(74,70,120)",
-      "size": 5
+      "weight": 5
     },
     {
       "source": 2,
@@ -2016,7 +2016,7 @@
       "id": "30",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 20,
@@ -2024,7 +2024,7 @@
       "id": "122",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 3
+      "weight": 3
     },
     {
       "source": 35,
@@ -2032,7 +2032,7 @@
       "id": "28",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 49,
@@ -2040,7 +2040,7 @@
       "id": "61",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 20,
@@ -2048,7 +2048,7 @@
       "id": "66",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 21,
@@ -2056,7 +2056,7 @@
       "id": "53",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 3
+      "weight": 3
     },
     {
       "source": 18,
@@ -2064,7 +2064,7 @@
       "id": "113",
       "attributes": {},
       "color": "rgb(74,70,120)",
-      "size": 13
+      "weight": 13
     },
     {
       "source": 25,
@@ -2072,7 +2072,7 @@
       "id": "56",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 4,
@@ -2080,7 +2080,7 @@
       "id": "67",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 37,
@@ -2088,7 +2088,7 @@
       "id": "47",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 3
+      "weight": 3
     },
     {
       "source": 70,
@@ -2096,7 +2096,7 @@
       "id": "123",
       "attributes": {},
       "color": "rgb(155,97,0)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 3,
@@ -2104,7 +2104,7 @@
       "id": "7",
       "attributes": {},
       "color": "rgb(219,169,175)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 27,
@@ -2112,7 +2112,7 @@
       "id": "84",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 6
+      "weight": 6
     },
     {
       "source": 33,
@@ -2120,7 +2120,7 @@
       "id": "131",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 3
+      "weight": 3
     },
     {
       "source": 10,
@@ -2128,7 +2128,7 @@
       "id": "69",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 33,
@@ -2136,7 +2136,7 @@
       "id": "127",
       "attributes": {},
       "color": "rgb(37,154,187)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 31,
@@ -2144,7 +2144,7 @@
       "id": "99",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 34,
@@ -2152,7 +2152,7 @@
       "id": "26",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 24,
@@ -2160,7 +2160,7 @@
       "id": "15",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 8
+      "weight": 8
     },
     {
       "source": 33,
@@ -2168,7 +2168,7 @@
       "id": "117",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 3
+      "weight": 3
     },
     {
       "source": 11,
@@ -2176,7 +2176,7 @@
       "id": "86",
       "attributes": {},
       "color": "rgb(127,176,136)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 65,
@@ -2184,7 +2184,7 @@
       "id": "95",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 33,
@@ -2192,7 +2192,7 @@
       "id": "83",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 12
+      "weight": 12
     },
     {
       "source": 6,
@@ -2200,7 +2200,7 @@
       "id": "3",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 4,
@@ -2208,7 +2208,7 @@
       "id": "32",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 24,
@@ -2216,7 +2216,7 @@
       "id": "48",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 21,
@@ -2224,7 +2224,7 @@
       "id": "106",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 4,
@@ -2232,7 +2232,7 @@
       "id": "6",
       "attributes": {},
       "color": "rgb(219,169,175)",
-      "size": 10
+      "weight": 10
     },
     {
       "source": 27,
@@ -2240,7 +2240,7 @@
       "id": "50",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 4
+      "weight": 4
     },
     {
       "source": 37,
@@ -2248,7 +2248,7 @@
       "id": "62",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 4
+      "weight": 4
     },
     {
       "source": 2,
@@ -2256,7 +2256,7 @@
       "id": "1",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 10,
@@ -2264,7 +2264,7 @@
       "id": "120",
       "attributes": {},
       "color": "rgb(127,176,136)",
-      "size": 4
+      "weight": 4
     },
     {
       "source": 40,
@@ -2272,7 +2272,7 @@
       "id": "130",
       "attributes": {},
       "color": "rgb(74,70,120)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 20,
@@ -2280,7 +2280,7 @@
       "id": "90",
       "attributes": {},
       "color": "rgb(127,176,136)",
-      "size": 4
+      "weight": 4
     },
     {
       "source": 37,
@@ -2288,7 +2288,7 @@
       "id": "34",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 43,
@@ -2296,7 +2296,7 @@
       "id": "40",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 50,
@@ -2304,7 +2304,7 @@
       "id": "77",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 4
+      "weight": 4
     },
     {
       "source": 36,
@@ -2312,7 +2312,7 @@
       "id": "31",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 25,
@@ -2320,7 +2320,7 @@
       "id": "134",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 3
+      "weight": 3
     },
     {
       "source": 30,
@@ -2328,7 +2328,7 @@
       "id": "20",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 56,
@@ -2336,7 +2336,7 @@
       "id": "115",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 28,
@@ -2344,7 +2344,7 @@
       "id": "19",
       "attributes": {},
       "color": "rgb(66,187,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 14,
@@ -2352,7 +2352,7 @@
       "id": "41",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 58,
@@ -2360,7 +2360,7 @@
       "id": "76",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 33,
@@ -2368,7 +2368,7 @@
       "id": "128",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 8
+      "weight": 8
     },
     {
       "source": 68,
@@ -2376,7 +2376,7 @@
       "id": "109",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 3
+      "weight": 3
     },
     {
       "source": 9,
@@ -2384,7 +2384,7 @@
       "id": "114",
       "attributes": {},
       "color": "rgb(0,228,0)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 22,
@@ -2392,7 +2392,7 @@
       "id": "14",
       "attributes": {},
       "color": "rgb(247,22,104)",
-      "size": 4
+      "weight": 4
     },
     {
       "source": 20,
@@ -2400,7 +2400,7 @@
       "id": "91",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 0,
@@ -2408,7 +2408,7 @@
       "id": "49",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 21
+      "weight": 21
     },
     {
       "source": 3,
@@ -2416,7 +2416,7 @@
       "id": "94",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 12
+      "weight": 12
     },
     {
       "source": 10,
@@ -2424,7 +2424,7 @@
       "id": "112",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 58,
@@ -2432,7 +2432,7 @@
       "id": "100",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 1,
@@ -2440,7 +2440,7 @@
       "id": "22",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 3
+      "weight": 3
     },
     {
       "source": 12,
@@ -2448,7 +2448,7 @@
       "id": "121",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 6
+      "weight": 6
     },
     {
       "source": 59,
@@ -2456,7 +2456,7 @@
       "id": "82",
       "attributes": {},
       "color": "rgb(247,22,104)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 20,
@@ -2464,7 +2464,7 @@
       "id": "72",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 9
+      "weight": 9
     },
     {
       "source": 47,
@@ -2472,7 +2472,7 @@
       "id": "68",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 27,
@@ -2480,7 +2480,7 @@
       "id": "85",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 18,
@@ -2488,7 +2488,7 @@
       "id": "18",
       "attributes": {},
       "color": "rgb(74,70,120)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 10,
@@ -2496,7 +2496,7 @@
       "id": "57",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 27,
@@ -2504,7 +2504,7 @@
       "id": "17",
       "attributes": {},
       "color": "rgb(127,176,136)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 10,
@@ -2512,7 +2512,7 @@
       "id": "65",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 9
+      "weight": 9
     },
     {
       "source": 4,
@@ -2520,7 +2520,7 @@
       "id": "101",
       "attributes": {},
       "color": "rgb(219,169,175)",
-      "size": 5
+      "weight": 5
     },
     {
       "source": 0,
@@ -2528,7 +2528,7 @@
       "id": "58",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 33,
@@ -2536,7 +2536,7 @@
       "id": "25",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 3,
@@ -2544,7 +2544,7 @@
       "id": "33",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 54,
@@ -2552,7 +2552,7 @@
       "id": "70",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 37,
@@ -2560,7 +2560,7 @@
       "id": "136",
       "attributes": {},
       "color": "rgb(219,169,175)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 15,
@@ -2568,7 +2568,7 @@
       "id": "10",
       "attributes": {},
       "color": "rgb(0,144,123)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 4,
@@ -2576,7 +2576,7 @@
       "id": "23",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 11
+      "weight": 11
     },
     {
       "source": 26,
@@ -2584,7 +2584,7 @@
       "id": "38",
       "attributes": {},
       "color": "rgb(0,144,123)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 38,
@@ -2592,7 +2592,7 @@
       "id": "55",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 0,
@@ -2600,7 +2600,7 @@
       "id": "116",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 4
+      "weight": 4
     },
     {
       "source": 19,
@@ -2608,7 +2608,7 @@
       "id": "36",
       "attributes": {},
       "color": "rgb(74,70,120)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 7,
@@ -2616,7 +2616,7 @@
       "id": "80",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 4
+      "weight": 4
     },
     {
       "source": 46,
@@ -2624,7 +2624,7 @@
       "id": "44",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 10,
@@ -2632,7 +2632,7 @@
       "id": "52",
       "attributes": {},
       "color": "rgb(127,176,136)",
-      "size": 5
+      "weight": 5
     },
     {
       "source": 37,
@@ -2640,7 +2640,7 @@
       "id": "104",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 18,
@@ -2648,7 +2648,7 @@
       "id": "12",
       "attributes": {},
       "color": "rgb(74,70,120)",
-      "size": 5
+      "weight": 5
     },
     {
       "source": 60,
@@ -2656,7 +2656,7 @@
       "id": "88",
       "attributes": {},
       "color": "rgb(255,168,235)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 15,
@@ -2664,7 +2664,7 @@
       "id": "16",
       "attributes": {},
       "color": "rgb(0,144,123)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 48,
@@ -2672,7 +2672,7 @@
       "id": "125",
       "attributes": {},
       "color": "rgb(247,22,104)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 6,
@@ -2680,7 +2680,7 @@
       "id": "27",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 21
+      "weight": 21
     },
     {
       "source": 12,
@@ -2688,7 +2688,7 @@
       "id": "60",
       "attributes": {},
       "color": "rgb(219,169,175)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 68,
@@ -2696,7 +2696,7 @@
       "id": "132",
       "attributes": {},
       "color": "rgb(91,224,175)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 13,
@@ -2704,7 +2704,7 @@
       "id": "9",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 11,
@@ -2712,7 +2712,7 @@
       "id": "78",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 19,
@@ -2720,7 +2720,7 @@
       "id": "71",
       "attributes": {},
       "color": "rgb(74,70,120)",
-      "size": 3
+      "weight": 3
     },
     {
       "source": 52,
@@ -2728,7 +2728,7 @@
       "id": "64",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 10,
@@ -2736,7 +2736,7 @@
       "id": "5",
       "attributes": {},
       "color": "rgb(127,176,136)",
-      "size": 3
+      "weight": 3
     },
     {
       "source": 41,
@@ -2744,7 +2744,7 @@
       "id": "37",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 4,
@@ -2752,7 +2752,7 @@
       "id": "108",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 21,
@@ -2760,7 +2760,7 @@
       "id": "75",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 24,
@@ -2768,7 +2768,7 @@
       "id": "21",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 0,
@@ -2776,7 +2776,7 @@
       "id": "45",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 7,
@@ -2784,7 +2784,7 @@
       "id": "81",
       "attributes": {},
       "color": "rgb(255,129,255)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 33,
@@ -2792,7 +2792,7 @@
       "id": "54",
       "attributes": {},
       "color": "rgb(127,176,136)",
-      "size": 10
+      "weight": 10
     },
     {
       "source": 64,
@@ -2800,7 +2800,7 @@
       "id": "93",
       "attributes": {},
       "color": "rgb(255,114,17)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 4,
@@ -2808,7 +2808,7 @@
       "id": "79",
       "attributes": {},
       "color": "rgb(183,209,95)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 22,
@@ -2816,7 +2816,7 @@
       "id": "96",
       "attributes": {},
       "color": "rgb(247,22,104)",
-      "size": 1
+      "weight": 1
     },
     {
       "source": 22,
@@ -2824,7 +2824,7 @@
       "id": "46",
       "attributes": {},
       "color": "rgb(247,22,104)",
-      "size": 2
+      "weight": 2
     },
     {
       "source": 67,
@@ -2832,7 +2832,7 @@
       "id": "98",
       "attributes": {},
       "color": "rgb(0,239,255)",
-      "size": 1
+      "weight": 1
     }
   ]
 }
