@@ -12,17 +12,17 @@
 <script src="http://d3js.org/d3.v2.min.js?2.9.3"></script>
 <script>
           
-          var width = 1700,
-          height = 1700
+          var width = 2000,
+          height = 2000
           
           var svg = d3.select("body").append("svg")
           .attr("width", width)
           .attr("height", height);
           
           var force = d3.layout.force()
-          .gravity(.07)
-          .distance(150)
-          .charge(-100)
+          .gravity(.20)
+          .distance(200)
+          .charge(-400)
           .size([width, height]);
           
           d3.json("FullNetwork.json", function(json) {
