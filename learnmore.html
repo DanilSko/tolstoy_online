@@ -1,6 +1,8 @@
 <html>
    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
    <link rel="stylesheet" type="text/css" href="parts/tolstoy.css">
+   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script></body>
+
 <head>
 <style>
 body {
@@ -16,7 +18,87 @@ body {
 <b>Предметом</b> исследования выступает связь художественной композиции романа и свойств выстроенной в нем системы персонажей с его текстовым (лингвистическим) уровнем. Предлагаемая разметка позволяет формализовать взаимодействия и некоторые характеристики персонажей на уровне текста, а применяемые методы количественного анализа (сетевой анализ, стилометрия, анализ распределения семантических ролей) дают возможность установить соотношение размечаемых текстовых элементов с композиционными особенностями и сюжетной структурой романа. 
 </p>
 <h2>О сайте</h2>
-<p> Этот сайт создан как сопровождение диссертационного исследования Д. А. Скоринкина. Он служит для веб-представления формальной разметки романа "Война и мир", сделанной в ходе работы над диссертацией</p>
+<p> Этот сайт создан как сопровождение диссертационного исследования Д. А. Скоринкина. Он служит для веб-представления формальной разметки романа "Война и мир", сделанной в ходе работы над диссертацией. С помощью средств HTML и JavaScript сайт отображает в наглядном человечекочитаемом формате разные уровни <a href="http://www.tei-c.org/">TEI/XML</a> разметки: </p>
+<h3>Связи</h3>
+<p> Социальные сети (графы) персонажей построены на основе разметки прямой речи героев романа. Узлом сети (графа) является индивидуальный персонаж, а связь отображает разговор между персонажами. Толщина связи пропорциональна ее весу, который устанавливается по числу реплик между персонажами; подробнее см. главу 2 диссертации</p>
+<div class="sth">
+<script src="https://d3js.org/d3.v2.min.js?2.9.3"></script><script>
+          
+          var width = 500,
+          height = 500
+          
+          var svg = d3.select(".sth").append("svg")
+          .attr("width", width)
+          .attr("height", height);
+          
+          var force = d3.layout.force()
+          .gravity(.05)
+          .distance(100)
+          .charge(-50)
+          .size([width, height]);
+          
+          d3.json("parts/networks/corrjson_networks/part1Volume1.json", function(json) {
+          
+          var nodeById = d3.map();
+          
+          json.nodes.forEach(function(node) {
+          nodeById.set(node.id, node);
+          });
+          
+          json.links.forEach(function(link) {
+          link.source = nodeById.get(link.source);
+          link.target = nodeById.get(link.target);
+          });
+          
+          force
+          .nodes(json.nodes)
+          .links(json.links)
+          .start();
+          
+          var link = svg.selectAll(".link")
+          .data(json.links)
+          .enter().append("line")
+          .attr("class", "link")
+          .style("stroke-width", function(d) { return Math.sqrt(d.weight); });
+          
+          var node = svg.selectAll(".node")
+          .data(json.nodes)
+          .enter().append("g")
+          .attr("class", "node")
+          .call(force.drag);
+          
+          node.append("circle")
+          .attr("r","8");
+          
+          node.append("text")
+          .attr("dx", 10)
+          .attr("dy", ".35em")
+          .text(function(d) { return d.name });
+          
+          force.on("tick", function() {
+          link.attr("x1", function(d) { return d.source.x; })
+          .attr("y1", function(d) { return d.source.y; })
+          .attr("x2", function(d) { return d.target.x; })
+          .attr("y2", function(d) { return d.target.y; });
+          
+          node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+          });
+          });
+          
+        </script>
+        </div>
+        <h3>Роли Роли</h3>
+        <script> $(document).ready(function(){
+        $('.popuptext').toggle ()  
+        }; 
+        $('[data-toggle="tooltip"]').tooltip();
+        </script>
+        <p>Разметка семантических ролей (глубинных позиций), в которых оказываются упоминаемые в тексте персонажи (в т.ч. анафорические упоминания), произведена при помощи анализатора ABBYY Compreno и доправлена вручную. Анализ употребления семантических ролей служит для количественного анализа эволюции характеров персонажей, а также их соотнесения друг с другом</p>
+        <p>Пример разметки: </p>
+        <p> Так говорила в июле 1805 года известная <span class="sem_role" type="agent"><span class="popuptext">agent</span><mark class="markperson"><span data-toggle="tooltip" title="Анна Шерер" class="person">Анна Павловна Шерер</span></mark></span>, фрейлина и приближенная 
+               <mark class="markperson"><span data-toggle="tooltip" title=" " class="person">императрицы Марии Феодоровны</span></mark>,
+               встречая важного и чиновного <span class="sem_role" type="object"><span class="popuptext">object</span><mark class="markperson"><span data-toggle="tooltip" title="Василий Курагин" class="person">князя Василия</span></mark></span>,
+               первого приехавшего на <span class="sem_role" type="possessor"><span class="popuptext">possessor</span><mark class="markperson"><span data-toggle="tooltip" title="Анна Шерер" class="person">ее</span></mark></span> вечер.</p>
 
 </body>
 </html>
