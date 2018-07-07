@@ -1,7 +1,14 @@
 <html>
    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
    <link rel="stylesheet" type="text/css" href="parts/tolstoy.css">
-   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script></body>
+   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+   <script> $(document).ready(function(){
+        $('.popuptext').toggle ();
+        $('[data-toggle="tooltip"]').tooltip();
+        })
+   </script>
+   
+   </body>
 
 <head>
 <style>
@@ -88,11 +95,7 @@ body {
         </script>
         </div>
         <h3>Роли Роли</h3>
-        <script> $(document).ready(function(){
-        $('.popuptext').toggle ()  
-        }; 
-        $('[data-toggle="tooltip"]').tooltip();
-        </script>
+        
         <p>Разметка семантических ролей (глубинных позиций), в которых оказываются упоминаемые в тексте персонажи (в т.ч. анафорические упоминания), произведена при помощи анализатора ABBYY Compreno и доправлена вручную. Анализ употребления семантических ролей служит для количественного анализа эволюции характеров персонажей, а также их соотнесения друг с другом</p>
         <p>Пример разметки: </p>
         <p> Так говорила в июле 1805 года известная <span class="sem_role" type="agent"><span class="popuptext">agent</span><mark class="markperson"><span data-toggle="tooltip" title="Анна Шерер" class="person">Анна Павловна Шерер</span></mark></span>, фрейлина и приближенная 
