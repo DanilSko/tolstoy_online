@@ -1,0 +1,1142 @@
+Source,Target,Type,Id,Label,timeset,Weight
+Yakov_Alpatych,Nikolai_Rostov,Directed,5509,,,5
+AndreyBolkonsky,Prince_Dolgorukov,Directed,5510,,,11
+Nikolai_Rostov,Count_Ilya_Rostov,Directed,5511,,,12
+"приказный23_3_3_",полицеймейстер23_3_3_,Directed,5512,,,2
+Prince_Nikolay_Bolkonsky,2,Directed,6708,,,3
+regimental commander,Mikhail_Ilarionovich_Kutuzov,Directed,5514,,,1
+"камердинер31_3_3_",NatashaRostova,Directed,5515,,,1
+Fedor_Ivanovich_Dolokhov,Englishman,Directed,5516,,,1
+Count_Ilya_Rostov,Danila,Directed,5517,,,2
+Count_Ilya_Rostov,Семен,Directed,5518,,,2
+"дежурный4_3_2_",AndreyBolkonsky,Directed,5519,,,1
+French drummer boy,Petya_Rostov,Directed,5520,,,1
+"солдаты7_4_4_",солдаты шестой роты7_4_4_,Directed,5521,,,1
+"один солдат8_4_4_",плясун8_4_4_,Directed,5522,,,1
+Lieutenant_Alphonse_Karlovich_Berg,NatashaRostova,Directed,5523,,,1
+"молодой иностранный принц7_3_3_",HeleneKuragin,Directed,5524,,,1
+"Иогель",Nikolai_Rostov,Directed,5525,,,1
+"один солдат21_2_1_",Петров,Directed,5526,,,1
+"смотритель1_2_2_",Pierre_Bezukhov,Directed,5527,,,1
+"возчик20_2_3_",Pierre_Bezukhov,Directed,5528,,,1
+AndreyBolkonsky,штаб-офицер21_2_1_,Directed,5529,,,1
+Prince_Nikolay_Bolkonsky,4,Directed,6744,,,10
+AndreyBolkonsky,Arakcheev,Directed,5531,,,5
+"лакей19_1_1_",Princess_Anna_Mikhaylovna_Drubetskaya,Directed,5532,,,1
+Staff_Captain_Tushin,Tushin's gunner,Directed,5533,,,2
+Count_Ilya_Rostov,дворецкий13_3_3_,Directed,5534,,,1
+Nikolai_Rostov,доктор17_2_2_,Directed,5535,,,3
+Mikhail_Ilarionovich_Kutuzov,адъютант15_2_3_,Directed,5536,,,1
+Pierre_Bezukhov,AndreyBolkonsky,Directed,5537,,,87
+Princess_Mariya_Bolkonskaya,little Natasha,Directed,5538,,,1
+"плясун8_4_4_",солдат8_4_4_,Directed,5539,,,4
+"женщина33_3_3_",муж33_3_3_,Directed,5540,,,1
+"писарь13_2_1_",Prince_Kozlovsky,Directed,5541,,,1
+Anna_Pavlovna_Scherer,Hippolyte_Kuragin,Directed,5542,,,1
+NatashaRostova,майор13_3_3_,Directed,5543,,,1
+Sonya_Rostova,Marya_Dmitriyevna_Akhrosimova,Directed,5544,,,2
+"денщик Ермолова4_2_4_",кавалергардский офицер4_2_4_,Directed,5545,,,1
+Countess_Natalya_Rostova,Marya_Dmitriyevna_Akhrosimova,Directed,5546,,,1
+"человек10_3_4_",Petya_Rostov,Directed,5547,,,2
+"Богданыч",Prince_Nesvitsky,Directed,5548,,,3
+"доктор32_3_3_",камердинер32_3_3_,Directed,5549,,,1
+Prince_Nesvitsky,свитский офицер8_2_1_,Directed,5550,,,2
+Zherkov,Fedor_Ivanovich_Dolokhov,Directed,5551,,,8
+AndreyBolkonsky,барон16_3_2_,Directed,5552,,,1
+2,Bolkonsky's architect,Directed,6709,,,1
+Princess_Mariya_Bolkonskaya,Пелагеюшка,Directed,5555,,,1
+"доктор17_2_2_",Nikolai_Rostov,Directed,5556,,,8
+Tushin's gunner,Staff_Captain_Tushin,Directed,5557,,,2
+AndreyBolkonsky,Prince_Nesvitsky,Directed,5558,,,11
+Prince_Bagration,Tushin's gunner,Directed,5559,,,2
+Mikhail_Ilarionovich_Kutuzov,солдаты6_4_4_,Directed,5560,,,4
+Princess_Anna_Mikhaylovna_Drubetskaya,швейцар12_1_1_,Directed,5561,,,1
+AndreyBolkonsky,солдаты9_2_1_,Directed,5562,,,1
+NatashaRostova,Никита,Directed,5563,,,1
+4,HeleneKuragin,Directed,6719,,,3
+mademoiselle_Bourienne,Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Directed,5565,,,2
+"француз11_2_4_",Pierre_Bezukhov,Directed,5566,,,3
+Prince_Kozlovsky,Mikhail_Ilarionovich_Kutuzov,Directed,5567,,,1
+HeleneKuragin,Count_Ilya_Rostov,Directed,5568,,,2
+Prince_Nesvitsky,AndreyBolkonsky,Directed,5569,,,4
+"адъютант18_1_1_",немец-доктор18_1_1_,Directed,5570,,,2
+Count_Rostopchin,кучер25_3_3_,Directed,5571,,,1
+Boris_Drubetskoy,4,Directed,6745,,,1
+4,Prince_Nikolay_Bolkonsky,Directed,6721,,,5
+Prince_Nikolay_Bolkonsky,3,Directed,6715,,,5
+"солдат2_2_1_",другой солдат2_2_1_,Directed,5575,,,1
+"солдаты8_4_4_",фельдфебель8_4_4_,Directed,5576,,,4
+AndreyBolkonsky,генерал9_3_1_,Directed,5577,,,1
+Pierre_Bezukhov,управляющий18_2_3_,Directed,5578,,,1
+little Natasha,Princess_Mariya_Bolkonskaya,Directed,5579,,,1
+Napoleon_Bonaparte,AndreyBolkonsky,Directed,5580,,,2
+"офицер13_1_3_",Марья Генриховна,Directed,5581,,,1
+regimental commander,солдаты2_2_1_,Directed,5582,,,1
+"старуха13_2_2_",AndreyBolkonsky,Directed,5583,,,1
+NatashaRostova,няня11_1_5_,Directed,5585,,,1
+Princess_Mariya_Bolkonskaya,Marya_Bogdanovna,Directed,5586,,,1
+Austrian minister of war,AndreyBolkonsky,Directed,5587,,,4
+"мужик13_2_3_",Ilyin,Directed,5588,,,1
+Petya_Rostov,Nikolai_Rostov,Directed,5589,,,2
+"Тит",шутник12_3_1_,Directed,5590,,,1
+Vera_Rostova,Lieutenant_Alphonse_Karlovich_Berg,Directed,5591,,,2
+"взгляд10_5_2_",NatashaRostova,Directed,5592,,,1
+Boris_Drubetskoy,Princess_Anna_Mikhaylovna_Drubetskaya,Directed,5593,,,6
+Prince_Bagration,Nikolai_Rostov,Directed,5594,,,6
+"малый23_3_3_",целовальник23_3_3_,Directed,5595,,,1
+Mikhail_Ilarionovich_Kutuzov,Ланжерон,Directed,5596,,,1
+Mikhail_Ilarionovich_Kutuzov,regimental commander,Directed,5597,,,4
+Catiche(eldest princess),Pierre_Bezukhov,Directed,5598,,,9
+regimental commander,Prince_Bagration,Directed,5599,,,3
+young Nikolenka Bolkonsky,Princess_Mariya_Bolkonskaya,Directed,5600,,,1
+Nikolai_Rostov,Telyanin,Directed,5601,,,11
+NatashaRostova,Petya_Rostov,Directed,5602,,,6
+"доктор32_3_3_",NatashaRostova,Directed,5603,,,1
+"Диммлер",Countess_Natalya_Rostova,Directed,5604,,,1
+"Ланжерон",Weyrother,Directed,5605,,,1
+"голос2_3_1_",Pierre_Bezukhov,Directed,5606,,,1
+"адъютант34_2_3_",Napoleon_Bonaparte,Directed,5607,,,1
+"офицер31_2_3_",солдаты31_2_3_,Directed,5608,,,1
+"солдат 58_4_4_",солдаты8_4_4_,Directed,5609,,,1
+"француз15_3_4_",пленный солдат15_3_4_,Directed,5610,,,1
+"упреки9_4_4_",солдат9_4_4_,Directed,5611,,,1
+Pierre_Bezukhov,кучер18_2_3_,Directed,5612,,,2
+"Де-Боссе",Napoleon_Bonaparte,Directed,5613,,,5
+Villarsky,Pierre_Bezukhov,Directed,5614,,,8
+"молодой иностранный принц6_3_3_",HeleneKuragin,Directed,5615,,,3
+AndreyBolkonsky,штаб-офицер15_2_1_,Directed,5616,,,2
+Mikhail_Ilarionovich_Kutuzov,солдат6_4_4_,Directed,5617,,,1
+"свитский офицер8_2_1_",Богданыч,Directed,5618,,,1
+Nikolai_Rostov,Uncle,Directed,5619,,,4
+"генерал6_2_1_",Prince_Nesvitsky,Directed,5620,,,1
+"апшеронцы15_3_1_",Miloradovich,Directed,5621,,,1
+mademoiselle_Bourienne,Princess_Mariya_Bolkonskaya,Directed,5622,,,13
+Mavra_Kuzminishna,камердинер14_3_3_,Directed,5623,,,1
+Petya_Rostov,Sonya_Rostova,Directed,5624,,,1
+Count_Bennigsen,Pierre_Bezukhov,Directed,5625,,,2
+Mikhail_Ilarionovich_Kutuzov,Miloradovich,Directed,5626,,,2
+"солдаты9_4_4_",Морель,Directed,5627,,,1
+"другой4_2_3_",один4_2_3_,Directed,5629,,,1
+"другой офицер18_3_1_",Nikolai_Rostov,Directed,5630,,,1
+Count_Ilya_Rostov,Nastasya Ivanovna (buffoon),Directed,5631,,,2
+Pierre_Bezukhov,адъютант31_2_3_,Directed,5632,,,5
+"один из гусар13_3_1_",Nikolai_Rostov,Directed,5633,,,1
+Nikolai_Rostov,гусара13_3_1_,Directed,5634,,,1
+"офицер13_2_1_",AndreyBolkonsky,Directed,5635,,,3
+Zherkov,австрийский генерал3_2_1_,Directed,5636,,,2
+Nikolai_Rostov,блондинка5_1_4_,Directed,5637,,,2
+Lavrushka,Napoleon_Bonaparte,Directed,5638,,,3
+Countess_Natalya_Rostova,лакей7_1_1_,Directed,5639,,,2
+Boris_Drubetskoy,Paisi_Kaysarov,Directed,5640,,,1
+Petya_Rostov,French drummer boy,Directed,5641,,,2
+"генерал6_2_1_",офицеры6_2_1_,Directed,5642,,,1
+AndreyBolkonsky,камердинер25_1_1_,Directed,5643,,,1
+"солдатик21_2_1_",Nikolai_Rostov,Directed,5644,,,1
+Danila,Nikolai_Rostov,Directed,5645,,,6
+Countess_Natalya_Rostova,Dunyasha,Directed,5646,,,1
+Joseph_Alexeevich_Bazdeev,Pierre_Bezukhov,Directed,5647,,,24
+Captain_Ramballe,Макар Алексеевич,Directed,5648,,,1
+"Бицкий",Сперанский,Directed,5649,,,2
+Princess_Anna_Mikhaylovna_Drubetskaya,лакей19_1_1_,Directed,5650,,,1
+NatashaRostova,буфетчик14_3_3_,Directed,5651,,,2
+Mikhail_Ilarionovich_Kutuzov,Шнейдер,Directed,5652,,,1
+Lieutenant_Alphonse_Karlovich_Berg,Countess_Natalya_Rostova,Directed,5653,,,2
+Nikolai_Rostov,AndreyBolkonsky,Directed,5654,,,4
+3,young Nikolenka Bolkonsky,Directed,6710,,,1
+Princess_Mariya_Bolkonskaya,Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Directed,5656,,,8
+"востроносенький солдат8_4_4_",фельдфебель8_4_4_,Directed,5657,,,1
+"слуга Пьера1_2_2_",Pierre_Bezukhov,Directed,5658,,,1
+AndreyBolkonsky,Bilibin,Directed,5659,,,28
+"штаб-офицер15_2_1_",AndreyBolkonsky,Directed,5660,,,5
+"Рапп",Napoleon_Bonaparte,Directed,5661,,,4
+Prince_Kozlovsky,Tsar_Alexander_I_of_Russia,Directed,5662,,,1
+Tsar_Alexander_I_of_Russia,генерал20_2_2_,Directed,5663,,,1
+Pierre_Bezukhov,солдаты8_3_3_,Directed,5664,,,4
+"ямщик1_1_2_",Nikolai_Rostov,Directed,5665,,,1
+"один из свиты6_2_4_",Count_Vasily_Orlov-Denisov,Directed,5666,,,2
+Count_Ilya_Rostov,Vera_Rostova,Directed,5667,,,1
+viscount,Pierre_Bezukhov,Directed,5668,,,5
+Napoleon_Bonaparte,Lelorgne d'Ideville,Directed,5669,,,1
+4,Boris_Drubetskoy,Directed,6722,,,1
+Mikhail_Ilarionovich_Kutuzov,австрийский генерал3_2_1_,Directed,5671,,,3
+Nikolai_Rostov,Yakov_Alpatych,Directed,5673,,,5
+Lavrushka,Nikolai_Rostov,Directed,5674,,,6
+Bilibin,AndreyBolkonsky,Directed,5675,,,36
+Wolzogen,Mikhail_Ilarionovich_Kutuzov,Directed,5676,,,2
+viscount,Hippolyte_Kuragin,Directed,5678,,,3
+mademoiselle_Bourienne,3,Directed,6716,,,1
+Dron_Zakharych,Yakov_Alpatych,Directed,5680,,,6
+"Андрей Севастьяныч",Nikolai_Rostov,Directed,5681,,,1
+Hippolyte_Kuragin,Anna_Pavlovna_Scherer,Directed,5682,,,2
+"другой офицер19_3_1_",офицер19_3_1_,Directed,5683,,,1
+Tsar_Alexander_I_of_Russia,Michaud,Directed,5684,,,9
+Count_Rostopchin,Pierre_Bezukhov,Directed,5686,,,6
+"один из солдат 28_3_3_",Pierre_Bezukhov,Directed,5687,,,1
+Bagovut,Capt._von_Toll,Directed,5688,,,1
+AndreyBolkonsky,Пелагеюшка,Directed,5689,,,3
+"офицер31_2_3_",солдат31_2_3_,Directed,5690,,,1
+Napoleon_Bonaparte,Lavrushka,Directed,5691,,,1
+Mikhail_Ilarionovich_Kutuzov,Wolzogen,Directed,5692,,,3
+young Nikolenka Bolkonsky,Nikolai_Rostov,Directed,5693,,,1
+Napoleon_Bonaparte,Сухтелен,Directed,5694,,,2
+AndreyBolkonsky,Демьян,Directed,5695,,,1
+Count_Bennigsen,Yermolov,Directed,5696,,,1
+Pierre_Bezukhov,доктор20_2_3_,Directed,5697,,,2
+Nikolai_Rostov,фельдшер17_2_2_,Directed,5699,,,4
+"солдат7_2_1_",казак7_2_1_,Directed,5700,,,1
+Ilagin,Uncle,Directed,5701,,,1
+Princess_Mariya_Bolkonskaya,Savishna(nurse),Directed,5702,,,2
+"один7_2_2_",другой7_2_2_,Directed,5703,,,1
+Prince_Nikolay_Bolkonsky,AndreyBolkonsky,Directed,5704,,,35
+Clausewitz,Wolzogen,Directed,5705,,,1
+young Nikolenka Bolkonsky,Pierre_Bezukhov,Directed,5706,,,1
+"полицеймейстер23_3_3_",кучер23_3_3_,Directed,5707,,,1
+Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Pierre_Bezukhov,Directed,5708,,,9
+"солдат17_2_2_",Nikolai_Rostov,Directed,5709,,,1
+Prince_Kozlovsky,AndreyBolkonsky,Directed,5710,,,5
+"адъютант30_2_3_",Pierre_Bezukhov,Directed,5711,,,1
+Bolkonsky's architect,Prince_Nikolay_Bolkonsky,Directed,5712,,,1
+3,Prince_Nikolay_Bolkonsky,Directed,6711,,,5
+Marya_Dmitriyevna_Akhrosimova,Pierre_Bezukhov,Directed,5714,,,9
+HeleneKuragin,Boris_Drubetskoy,Directed,5715,,,1
+"кто-то11_1_4_",Pierre_Bezukhov,Directed,5716,,,2
+"форейтор17_3_3_",Ефим,Directed,5717,,,1
+"чиновник10_3_3_",Pierre_Bezukhov,Directed,5718,,,2
+Weyrother,Ланжерон,Directed,5719,,,1
+NatashaRostova,Anatole_Kuragin,Directed,5720,,,1
+Napoleon_Bonaparte,Berthier,Directed,5721,,,5
+3,mademoiselle_Bourienne,Directed,6712,,,1
+"девушки8_2_2_",AndreyBolkonsky,Directed,5723,,,1
+NatashaRostova,Boris_Drubetskoy,Directed,5724,,,10
+HeleneKuragin,Bilibin,Directed,5725,,,4
+"дядюшка4_4_2_",NatashaRostova,Directed,5726,,,1
+Princess_Anna_Mikhaylovna_Drubetskaya,Pierre_Bezukhov,Directed,5727,,,13
+"немец4_2_1_",Nikolai_Rostov,Directed,5728,,,2
+Zherkov,Prince_Nesvitsky,Directed,5729,,,2
+"старый солдат8_4_4_",востроносенький солдат8_4_4_,Directed,5730,,,1
+Prince_Nesvitsky,офицеры6_2_1_,Directed,5731,,,2
+Ilagin,Nikolai_Rostov,Directed,5732,,,7
+Countess_Natalya_Rostova,управляющий16_3_3_,Directed,5733,,,1
+Princess_Mariya_Bolkonskaya,Bolkonsky's architect,Directed,5734,,,1
+"слуга22_1_1_",Princess_Mariya_Bolkonskaya,Directed,5735,,,1
+Nikolai_Rostov,Vera_Rostova,Directed,5736,,,2
+NatashaRostova,Васильич,Directed,5737,,,1
+Princess_Mariya_Bolkonskaya,NatashaRostova,Directed,5738,,,29
+Rostov's groom,Nikolai_Rostov,Directed,5739,,,1
+AndreyBolkonsky,Countess_Natalya_Rostova,Directed,5740,,,5
+NatashaRostova,Count_Ilya_Rostov,Directed,5741,,,12
+Pierre_Bezukhov,один из солдат 38_3_3_,Directed,5742,,,1
+Prince_Nikolay_Bolkonsky,Princess_Mariya_Bolkonskaya,Directed,5743,,,47
+"штаб-офицер20_2_1_",Staff_Captain_Tushin,Directed,5744,,,2
+l’homme de beaucoup de mérite,Anna_Pavlovna_Scherer,Directed,5745,,,1
+"екатериненский старик5_3_2_",AndreyBolkonsky,Directed,5746,,,3
+Pierre_Bezukhov,bereiter,Directed,5747,,,2
+Boris_Drubetskoy,NatashaRostova,Directed,5748,,,8
+"денщик Телянина4_2_1_",Nikolai_Rostov,Directed,5749,,,3
+"солдаты31_2_3_",ополченцы31_2_3_,Directed,5750,,,1
+"горничная8_1_2_",Prince_Nikolay_Bolkonsky,Directed,5751,,,1
+Sonya_Rostova,Countess_Natalya_Rostova,Directed,5752,,,4
+Pierre_Bezukhov,viscount,Directed,5753,,,6
+viscount,AndreyBolkonsky,Directed,5754,,,3
+"унтер-офицер13_3_1_",Nikolai_Rostov,Directed,5755,,,1
+"офицер13_3_3_",Mavra_Kuzminishna,Directed,5757,,,2
+"другой солдат8_4_4_",фельдфебель8_4_4_,Directed,5758,,,1
+2,Prince_Nikolay_Bolkonsky,Directed,6707,,,1
+NatashaRostova,Петька,Directed,5760,,,1
+Princess_Anna_Mikhaylovna_Drubetskaya,Julie_Karagina,Directed,5761,,,1
+"пожилая дама2_3_1_",Aline_Kuragina,Directed,5762,,,1
+Pierre_Bezukhov,Marya_Dmitriyevna_Akhrosimova,Directed,5763,,,2
+Napoleon_Bonaparte,адъютант 34_2_3_,Directed,5765,,,1
+Bolkonsky's architect,Princess_Mariya_Bolkonskaya,Directed,5766,,,2
+"пехотинец7_2_1_",гусар7_2_1_,Directed,5767,,,1
+Princess_Mariya_Bolkonskaya,Countess_Natalya_Rostova,Directed,5768,,,1
+Princess_Mariya_Bolkonskaya,Anna_Ignatyevna_Malvintsev,Directed,5769,,,1
+"солдаты пехотного полка2_2_1_",Mikhail_Ilarionovich_Kutuzov,Directed,5770,,,1
+"штаб-офицер21_2_1_",Prince_Bagration,Directed,5771,,,1
+"один из солдат 18_3_3_",Pierre_Bezukhov,Directed,5772,,,1
+Princess_Mariya_Bolkonskaya,старик11_2_3_,Directed,5773,,,2
+Platon_Karataev,Pierre_Bezukhov,Directed,5774,,,38
+"Балага",Fedor_Ivanovich_Dolokhov,Directed,5775,,,4
+"муж33_3_3_",женщина33_3_3_,Directed,5776,,,2
+"гусар13_3_1_",Nikolai_Rostov,Directed,5777,,,3
+"Прокофий",Nikolai_Rostov,Directed,5778,,,3
+"Диммлер",Sonya_Rostova,Directed,5779,,,1
+Mikhail_Ilarionovich_Kutuzov,генерал15_3_1_,Directed,5780,,,4
+"крестьяне Болконских11_2_3_",Princess_Mariya_Bolkonskaya,Directed,5781,,,2
+Mikhail_Ilarionovich_Kutuzov,Fedor_Ivanovich_Dolokhov,Directed,5782,,,5
+Countess_Natalya_Rostova,Pierre_Bezukhov,Directed,5783,,,11
+Prince_Bagration,Staff_Captain_Tushin,Directed,5784,,,2
+Mikhail_Ilarionovich_Kutuzov,Timohin,Directed,5785,,,1
+4,l’homme de beaucoup de mérite,Directed,6724,,,2
+Count_Ilya_Rostov,Julie_Karagina,Directed,5787,,,1
+Pierre_Bezukhov,Nikolai_Rostov,Directed,5788,,,12
+Napoleon_Bonaparte,Рапп,Directed,5789,,,2
+Anatole_Kuragin,цыганка Матреша17_5_2_,Directed,5790,,,1
+Nikolai_Rostov,Countess_Natalya_Rostova,Directed,5791,,,12
+"горничная3_3_1_",Princess_Mariya_Bolkonskaya,Directed,5792,,,1
+Pierre_Bezukhov,офицер21_2_3_,Directed,5793,,,5
+Uncle,Anisya Fedorovna,Directed,5794,,,1
+Gerasim,Pierre_Bezukhov,Directed,5795,,,8
+"доктор13_4_4_",Pierre_Bezukhov,Directed,5796,,,1
+Ilyin,мужик13_2_3_,Directed,5797,,,2
+Pierre_Bezukhov,Julie_Karagina,Directed,5798,,,10
+"исправник4_2_3_",Yakov_Alpatych,Directed,5799,,,1
+Nastasya Ivanovna (buffoon),Count_Ilya_Rostov,Directed,5800,,,1
+young Nikolenka Bolkonsky,3,Directed,6714,,,2
+Lieutenant_Alphonse_Karlovich_Berg,Count_Ilya_Rostov,Directed,5802,,,6
+Prince_Nikolay_Bolkonsky,Yakov_Alpatych,Directed,5803,,,5
+"Богданыч",адъютант19_2_1_,Directed,5804,,,1
+"офицер4_2_3_",солдаты4_2_3_,Directed,5805,,,1
+"гвардеец29_2_3_",Napoleon_Bonaparte,Directed,5806,,,1
+Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Anna_Pavlovna_Scherer,Directed,5807,,,2
+NatashaRostova,Dunyasha,Directed,5808,,,2
+viscount,HeleneKuragin,Directed,5809,,,1
+"камердинер32_3_3_",доктор32_3_3_,Directed,5810,,,1
+Austrian minister of war,адъютант9_2_1_,Directed,5811,,,1
+AndreyBolkonsky,старуха13_2_2_,Directed,5812,,,1
+"адъютант26_2_3_",Napoleon_Bonaparte,Directed,5814,,,1
+AndreyBolkonsky,Сперанский,Directed,5815,,,6
+"рыжий8_4_4_",плясун8_4_4_,Directed,5817,,,1
+Anna_Pavlovna_Scherer,Boris_Drubetskoy,Directed,5818,,,3
+"цыганка Матреша17_5_2_",Fedor_Ivanovich_Dolokhov,Directed,5820,,,1
+Michaud,Wolzogen,Directed,5821,,,1
+Piotr_Petrovich_Konovnitsyn,Shcherbinin,Directed,5822,,,1
+Countess_Natalya_Rostova,Princess_Mariya_Bolkonskaya,Directed,5823,,,3
+"солдат8_4_4_",солдаты8_4_4_,Directed,5824,,,1
+"старый солдат8_4_4_",фельдфебель8_4_4_,Directed,5825,,,1
+"учитель15_3_4_",Pierre_Bezukhov,Directed,5826,,,2
+"генерал15_2_3_",Piotr_Petrovich_Konovnitsyn,Directed,5827,,,1
+Marya_Dmitriyevna_Akhrosimova,Sonya_Rostova,Directed,5828,,,2
+"гусар7_2_1_",пехотинец7_2_1_,Directed,5829,,,1
+AndreyBolkonsky,Mikhail_Ilarionovich_Kutuzov,Directed,5831,,,10
+little Natasha,Nikolai_Rostov,Directed,5832,,,1
+"доктор8_2_3_",Princess_Mariya_Bolkonskaya,Directed,5833,,,4
+Countess_Natalya_Rostova,Count_Ilya_Rostov,Directed,5834,,,10
+Anisya Fedorovna,NatashaRostova,Directed,5835,,,1
+Kochubey,екатериненский старик5_3_2_,Directed,5836,,,2
+Princess_Mariya_Bolkonskaya,mademoiselle_Bourienne,Directed,5837,,,8
+Nikolai_Rostov,young Nikolenka Bolkonsky,Directed,5838,,,4
+"Митенька",Count_Ilya_Rostov,Directed,5839,,,1
+Marya_Dmitriyevna_Akhrosimova,Богданыч,Directed,5840,,,1
+Count_Rostopchin,смотритель24_3_3_,Directed,5841,,,1
+"немец-доктор18_1_1_",адъютант18_1_1_,Directed,5842,,,2
+Mikhail_Ilarionovich_Kutuzov,другой генерал7_2_4_,Directed,5843,,,1
+Count_Ilya_Rostov,Pierre_Bezukhov,Directed,5844,,,12
+"первый солдат8_4_4_",фельдфебель8_4_4_,Directed,5845,,,1
+Fedor_Ivanovich_Dolokhov,Mikhail_Ilarionovich_Kutuzov,Directed,5846,,,4
+"первый солдат8_3_3_",Pierre_Bezukhov,Directed,5847,,,1
+Yakov_Alpatych,Dron_Zakharych,Directed,5848,,,10
+"Степан Степанович",Pierre_Bezukhov,Directed,5849,,,1
+Anatole_Kuragin,Fedor_Ivanovich_Dolokhov,Directed,5850,,,16
+AndreyBolkonsky,Staff_Captain_Tushin,Directed,5851,,,2
+"девушка14_5_2_",NatashaRostova,Directed,5852,,,2
+Staff_Captain_Tushin,штаб-офицер15_2_1_,Directed,5853,,,1
+"сенатор22_1_3_",Pierre_Bezukhov,Directed,5854,,,1
+AndreyBolkonsky,Prince_Bagration,Directed,5855,,,1
+"камердинер6_1_2_",Pierre_Bezukhov,Directed,5856,,,1
+NatashaRostova,Федор,Directed,5857,,,1
+"старик11_2_3_",Princess_Mariya_Bolkonskaya,Directed,5858,,,2
+regimental commander,Fedor_Ivanovich_Dolokhov,Directed,5859,,,8
+"гренадер15_2_1_",Fedor_Ivanovich_Dolokhov,Directed,5860,,,1
+Bilibin,дипломаты 11_2_1_,Directed,5861,,,1
+Boris_Drubetskoy,Pierre_Bezukhov,Directed,5862,,,18
+Pierre_Bezukhov,Abbe Morio,Directed,5864,,,3
+Count_Vasily_Orlov-Denisov,унтер-офицер6_2_4_,Directed,5865,,,1
+"офицер22_3_3_",Mavra_Kuzminishna,Directed,5866,,,4
+Mikhail_Ilarionovich_Kutuzov,Capt._von_Toll,Directed,5868,,,3
+Julie_Karagina,Pierre_Bezukhov,Directed,5869,,,13
+Sonya_Rostova,NatashaRostova,Directed,5870,,,70
+"французы33_3_3_",Pierre_Bezukhov,Directed,5871,,,1
+"офицер21_2_3_",Pierre_Bezukhov,Directed,5873,,,9
+"предводитель8_2_3_",Princess_Mariya_Bolkonskaya,Directed,5874,,,1
+"солдат8_4_4_",Киселев,Directed,5875,,,1
+NatashaRostova,Uncle,Directed,5876,,,4
+Count_Ilya_Rostov,повар2_1_2_,Directed,5877,,,1
+Petya_Rostov,esaul Lovaysky,Directed,5878,,,1
+Nikolai_Rostov,офицер21_2_2_,Directed,5879,,,1
+NatashaRostova,Mavra_Kuzminishna,Directed,5880,,,3
+"генерал9_1_4_",Pierre_Bezukhov,Directed,5881,,,1
+Mikhail_Ilarionovich_Kutuzov,Дохтуров,Directed,5882,,,1
+Staff_Captain_Tushin,пехотный офицер16_2_1_,Directed,5883,,,5
+"Богданыч",Pyotr_Nikolaitch_Shinshin,Directed,5884,,,2
+Yakov_Alpatych,Prince_Nikolay_Bolkonsky,Directed,5885,,,3
+Prince_Bagration,офицер17_2_1_,Directed,5886,,,1
+Lieutenant_Alphonse_Karlovich_Berg,Boris_Drubetskoy,Directed,5887,,,2
+Prince_Nesvitsky,казак7_2_1_,Directed,5888,,,1
+Count_Ilya_Rostov,Marya_Lvovna_Karagina,Directed,5889,,,9
+"Пелагеюшка",Pierre_Bezukhov,Directed,5890,,,2
+"швейцар12_1_1_",официант12_1_1_,Directed,5891,,,1
+Lelorgne d'Ideville,Napoleon_Bonaparte,Directed,5892,,,2
+Nikolai_Rostov,Staff_Captain_Tushin,Directed,5893,,,5
+Count_Ilya_Rostov,NatashaRostova,Directed,5894,,,15
+Countess_Natalya_Rostova,Митенька,Directed,5895,,,1
+Pierre_Bezukhov,солдат13_2_4_,Directed,5896,,,2
+"ополченец17_2_3_",Julie_Karagina,Directed,5897,,,5
+Count_Rostopchin,Prince_Nikolay_Bolkonsky,Directed,5898,,,5
+Prince_Bagration,AndreyBolkonsky,Directed,5899,,,3
+"солдаты8_3_3_",Pierre_Bezukhov,Directed,5900,,,3
+Pierre_Bezukhov,Count_Ilya_Rostov,Directed,5901,,,8
+Count_Ilya_Rostov,Митенька,Directed,5902,,,1
+Pierre_Bezukhov,капитан13_2_4_,Directed,5903,,,1
+Nikolai_Rostov,Kirsten,Directed,5904,,,9
+Ilagin,Erza,Directed,5905,,,1
+"денщик16_2_4_",Bolhovitinov,Directed,5906,,,1
+Englishman,Fedor_Ivanovich_Dolokhov,Directed,5907,,,2
+Balashev,General_Davoust,Directed,5908,,,1
+"Богданыч",Nikolai_Rostov,Directed,5909,,,3
+Nikolai_Rostov,Марья Генриховна,Directed,5910,,,2
+"генерал3_5_2_",Prince_Nikolay_Bolkonsky,Directed,5911,,,4
+Pierre_Bezukhov,NatashaRostova,Directed,5912,,,66
+Lieutenant_Alphonse_Karlovich_Berg,тесть11_3_2_,Directed,5913,,,1
+Prince_Bagration,солдаты18_2_1_,Directed,5914,,,1
+Ilyin,Марья Генриховна,Directed,5915,,,1
+"Иванушка",AndreyBolkonsky,Directed,5916,,,1
+Abbe Morio,Pierre_Bezukhov,Directed,5917,,,1
+Anatole_Kuragin,4,Directed,6717,,,1
+Staff_Captain_Tushin,AndreyBolkonsky,Directed,5919,,,3
+Ilyin,Nikolai_Rostov,Directed,5920,,,8
+Pierre_Bezukhov,капрал11_2_4_,Directed,5922,,,1
+"Мишка",Данило Терентьич,Directed,5923,,,1
+"помещик 4_2_3_",Yakov_Alpatych,Directed,5924,,,1
+Countess_Natalya_Rostova,Boris_Drubetskoy,Directed,5925,,,1
+Lieutenant_Alphonse_Karlovich_Berg,Pierre_Bezukhov,Directed,5926,,,3
+Nikolai_Rostov,Захар,Directed,5927,,,1
+"адъютант Наполеона38_2_3_",Napoleon_Bonaparte,Directed,5928,,,2
+Vera_Rostova,Boris_Drubetskoy,Directed,5929,,,1
+Count_Ilya_Rostov,Princess_Anna_Mikhaylovna_Drubetskaya,Directed,5931,,,4
+"Паулучи",Tsar_Alexander_I_of_Russia,Directed,5932,,,2
+Prince_Nesvitsky,адъютант13_2_1_,Directed,5933,,,1
+Dunyasha (Bolkonsky maid),Princess_Mariya_Bolkonskaya,Directed,5934,,,3
+little Andryusha,Pierre_Bezukhov,Directed,5935,,,1
+Prince_Nesvitsky,Pierre_Bezukhov,Directed,5936,,,3
+4,viscount,Directed,6725,,,1
+Nikolai_Rostov,лакей1_1_2_,Directed,5938,,,2
+Count_Kirill_Bezukhov,Pierre_Bezukhov,Directed,5939,,,1
+4,Pierre_Bezukhov,Directed,6726,,,18
+esaul Lovaysky,Tikhon_Shtcherbatov,Directed,5941,,,1
+Chekmar,Count_Ilya_Rostov,Directed,5942,,,4
+"штабный товарищ4_2_4_",кавалергардский офицер4_2_4_,Directed,5943,,,1
+Sonya_Rostova,Луиза Ивановна,Directed,5944,,,1
+Prince_Nikolay_Bolkonsky,NatashaRostova,Directed,5945,,,3
+"генерал6_2_1_",свитский офицер6_2_1_,Directed,5946,,,1
+"Диммлер",NatashaRostova,Directed,5947,,,1
+Captain_Ramballe,Gerasim,Directed,5948,,,1
+Countess_Natalya_Rostova,Диммлер,Directed,5949,,,1
+bereiter,Pierre_Bezukhov,Directed,5950,,,4
+Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Anatole_Kuragin,Directed,5951,,,2
+Yakov_Alpatych,Wife_of_Alpatych,Directed,5952,,,2
+4,дама2_3_1_,Directed,6727,,,1
+Nikolai_Rostov,Zherkov,Directed,5954,,,1
+Fedor_Ivanovich_Dolokhov,Zherkov,Directed,5955,,,13
+Nikolai_Rostov,little Natasha,Directed,5956,,,1
+General_Mack,Mikhail_Ilarionovich_Kutuzov,Directed,5957,,,1
+4,Anna_Pavlovna_Scherer,Directed,6718,,,28
+"другой офицер21_2_3_",Pierre_Bezukhov,Directed,5959,,,1
+Petya_Rostov,Лихачев,Directed,5961,,,8
+"лекарша13_2_1_",AndreyBolkonsky,Directed,5962,,,2
+Joseph_Alexeevich_Bazdeev,слуга1_2_2_,Directed,5963,,,1
+"майор13_3_3_",NatashaRostova,Directed,5964,,,2
+Count_Ilya_Rostov,Princess_Mariya_Bolkonskaya,Directed,5965,,,2
+Ilagin,hunter,Directed,5966,,,1
+Nikolai_Rostov,Ilagin,Directed,5967,,,3
+"солдаты14_3_1_",адъютант14_3_1_,Directed,5968,,,1
+"полковник21_2_2_",Лазарев,Directed,5969,,,1
+Vera_Rostova,AndreyBolkonsky,Directed,5970,,,6
+"француз33_3_3_",Pierre_Bezukhov,Directed,5971,,,3
+Nikolai_Rostov,денщик Телянина4_2_1_,Directed,5972,,,1
+Anatole_Kuragin,Гаврило,Directed,5973,,,1
+Napoleon_Bonaparte,Balashev,Directed,5975,,,28
+"офицер7_2_1_",девушка-немка7_2_1_,Directed,5976,,,1
+"доктор13_1_3_",Nikolai_Rostov,Directed,5977,,,1
+Anna_Pavlovna_Scherer,AndreyBolkonsky,Directed,5978,,,4
+Nikolai_Rostov,Ilyin,Directed,5979,,,4
+regimental commander,Михайло Митрич (батальонный командир),Directed,5980,,,4
+"женщина33_3_3_",Pierre_Bezukhov,Directed,5981,,,3
+Prince_Dolgorukov,Prince_Bagration,Directed,5982,,,2
+"офицерик31_2_3_",полковник31_2_3_,Directed,5983,,,1
+Prince_Nikolay_Bolkonsky,Count_Rostopchin,Directed,5984,,,5
+"Савельич",Pierre_Bezukhov,Directed,5985,,,3
+Princess_Anna_Mikhaylovna_Drubetskaya,Marya_Lvovna_Karagina,Directed,5987,,,5
+old priest,дама18_1_1_,Directed,5988,,,2
+Pierre_Bezukhov,собачонка15_3_4_,Directed,5989,,,1
+Pyotr_Nikolaitch_Shinshin,NatashaRostova,Directed,5990,,,2
+Pierre_Bezukhov,солдат31_2_3_,Directed,5991,,,1
+NatashaRostova,Marya_Dmitriyevna_Akhrosimova,Directed,5992,,,13
+Pierre_Bezukhov,Count_Bennigsen,Directed,5993,,,2
+"генерал19_2_1_",Богданыч,Directed,5994,,,3
+Nikolai_Rostov,доктор13_1_3_,Directed,5996,,,1
+HeleneKuragin,Pierre_Bezukhov,Directed,5997,,,13
+Count_Rostopchin,Boris_Drubetskoy,Directed,5998,,,1
+"солдат 88_4_4_",Макеев,Directed,5999,,,1
+"дипломат7_2_2_",l'homme à l'esprit profond,Directed,6000,,,1
+4,Aline_Kuragina,Directed,6728,,,1
+"Сперанский",AndreyBolkonsky,Directed,6002,,,12
+Anatole_Kuragin,Prince_Nikolay_Bolkonsky,Directed,6003,,,2
+AndreyBolkonsky,Timohin,Directed,6004,,,4
+Pierre_Bezukhov,Joseph_Alexeevich_Bazdeev,Directed,6006,,,11
+Pierre_Bezukhov,HeleneKuragin,Directed,6007,,,10
+Helene's lady companion,HeleneKuragin,Directed,6008,,,1
+"генерал20_2_2_",Nikolai_Rostov,Directed,6010,,,1
+"губернатор4_2_3_",Yakov_Alpatych,Directed,6011,,,4
+Prince_Dolgorukov,AndreyBolkonsky,Directed,6012,,,12
+Prince_Bagration,адъютант17_2_1_,Directed,6013,,,1
+AndreyBolkonsky,Prince_Kozlovsky,Directed,6014,,,3
+Prince_Nikolay_Bolkonsky,Pierre_Bezukhov,Directed,6015,,,3
+NatashaRostova,Countess_Natalya_Rostova,Directed,6016,,,78
+AndreyBolkonsky,Anna_Pavlovna_Scherer,Directed,6017,,,7
+"генерал3_5_2_",Count_Rostopchin,Directed,6018,,,4
+AndreyBolkonsky,NatashaRostova,Directed,6019,,,23
+"камердинер14_3_3_",старушка14_3_3_,Directed,6020,,,1
+Nikolai_Rostov,Princess_Mariya_Bolkonskaya,Directed,6021,,,38
+Count_Rostopchin,адъютант 25_3_3_,Directed,6022,,,1
+Pyotr_Nikolaitch_Shinshin,Count_Ilya_Rostov,Directed,6023,,,2
+Dunyasha,NatashaRostova,Directed,6024,,,5
+"один из офицеров21_2_2_",Nikolai_Rostov,Directed,6025,,,1
+Prince_Bagration,Prince_Dolgorukov,Directed,6026,,,2
+"Богданыч",Count_Ilya_Rostov,Directed,6027,,,2
+"кто-то20_2_2_",Nikolai_Rostov,Directed,6028,,,1
+Captain_Ramballe,Pierre_Bezukhov,Directed,6029,,,34
+"гусар7_3_4_",Petya_Rostov,Directed,6030,,,1
+"солдат9_4_4_",Captain_Ramballe,Directed,6031,,,1
+Princess_Mariya_Bolkonskaya,предводитель8_2_3_,Directed,6032,,,1
+4,Anatole_Kuragin,Directed,6729,,,3
+Mikhail_Ilarionovich_Kutuzov,Paisi_Kaysarov,Directed,6034,,,2
+Uncle,NatashaRostova,Directed,6035,,,9
+Pierre_Bezukhov,Prince_Nesvitsky,Directed,6036,,,5
+Count_Rostopchin,Mikhail_Ilarionovich_Kutuzov,Directed,6037,,,3
+Mikhail_Ilarionovich_Kutuzov,Weyrother,Directed,6038,,,2
+"откупщик23_1_3_",Tsar_Alexander_I_of_Russia,Directed,6039,,,1
+Mikhail_Ilarionovich_Kutuzov,генерал15_2_3_,Directed,6040,,,4
+Fedor_Ivanovich_Dolokhov,лакей17_5_2_,Directed,6041,,,1
+"старичок14_2_3_",Dron_Zakharych,Directed,6042,,,1
+Tsar_Alexander_I_of_Russia,Napoleon_Bonaparte,Directed,6043,,,1
+4,Princess_Mariya_Bolkonskaya,Directed,6720,,,4
+"фельдфебель8_4_4_",плясун8_4_4_,Directed,6045,,,2
+NatashaRostova,графиня22_3_2_,Directed,6047,,,1
+Nikolai_Rostov,Fedor_Ivanovich_Dolokhov,Directed,6048,,,16
+Miloradovich,Tsar_Alexander_I_of_Russia,Directed,6049,,,1
+"офицер21_2_2_",Nikolai_Rostov,Directed,6050,,,1
+Countess_Natalya_Rostova,Marya_Lvovna_Karagina,Directed,6051,,,4
+"екатериненский старик5_3_2_",Kochubey,Directed,6052,,,1
+Mikhail_Ilarionovich_Kutuzov,Bolhovitinov,Directed,6054,,,5
+Pierre_Bezukhov,Терентий,Directed,6055,,,1
+"солдат13_2_4_",Pierre_Bezukhov,Directed,6056,,,1
+"шутник12_3_1_",Тит,Directed,6057,,,1
+Countess_Natalya_Rostova,девушка14_1_1_,Directed,6058,,,1
+Napoleon_Bonaparte,Tsar_Alexander_I_of_Russia,Directed,6059,,,2
+Pierre_Bezukhov,Lieutenant_Alphonse_Karlovich_Berg,Directed,6060,,,1
+Bilibin,HeleneKuragin,Directed,6061,,,4
+Petya_Rostov,Uncle,Directed,6062,,,1
+Princess_Mariya_Bolkonskaya,Nikolai_Rostov,Directed,6063,,,35
+"гусарские офицеры5_2_1_",Zherkov,Directed,6064,,,3
+Countess_Natalya_Rostova,Princess_Anna_Mikhaylovna_Drubetskaya,Directed,6065,,,6
+General_Davoust,Balashev,Directed,6066,,,3
+"великий мастер4_2_2_",Pierre_Bezukhov,Directed,6067,,,3
+NatashaRostova,Nastasya Ivanovna (buffoon),Directed,6068,,,1
+Prince_Nesvitsky,другой6_2_1_,Directed,6069,,,1
+AndreyBolkonsky,Emperor_Francis_I_of_Austria,Directed,6070,,,6
+Pierre_Bezukhov,Anatole_Kuragin,Directed,6071,,,21
+Anna_Pavlovna_Scherer,Aline_Kuragina,Directed,6074,,,1
+Timohin,regimental commander,Directed,6075,,,8
+"офицер18_3_1_",Nikolai_Rostov,Directed,6076,,,2
+"задний36_2_3_",передний мужик36_2_3_,Directed,6077,,,1
+Nikolai_Rostov,один из офицеров21_2_2_,Directed,6078,,,1
+Count_Ilya_Rostov,HeleneKuragin,Directed,6079,,,1
+Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,mademoiselle_Bourienne,Directed,6080,,,3
+"полковник31_2_3_",адъютант31_2_3_,Directed,6081,,,1
+AndreyBolkonsky,Sonya_Rostova,Directed,6082,,,1
+Count_Ilya_Rostov,Marya_Dmitriyevna_Akhrosimova,Directed,6083,,,6
+"девушка11_4_2_",вторая Мелюкова11_4_2_,Directed,6084,,,1
+NatashaRostova,HeleneKuragin,Directed,6085,,,1
+"австрийский генерал3_2_1_",Zherkov,Directed,6086,,,1
+Anatole_Kuragin,более благоразумный человек6_1_1_,Directed,6087,,,2
+Napoleon_Bonaparte,адъютант26_2_3_,Directed,6088,,,1
+Pierre_Bezukhov,Anna_Pavlovna_Scherer,Directed,6089,,,3
+"молодой солдат7_2_1_",дяденька7_2_1_,Directed,6090,,,1
+NatashaRostova,Princess_Anna_Mikhaylovna_Drubetskaya,Directed,6091,,,5
+Pierre_Bezukhov,Смольянинов (ритор),Directed,6092,,,9
+"ефрейтор7_2_1_",Зикин,Directed,6093,,,1
+Princess_Mariya_Bolkonskaya,Pierre_Bezukhov,Directed,6094,,,39
+Hippolyte_Kuragin,viscount,Directed,6095,,,4
+Pierre_Bezukhov,женщина33_3_3_,Directed,6096,,,1
+AndreyBolkonsky,Антон,Directed,6097,,,1
+Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Princess_Mariya_Bolkonskaya,Directed,6098,,,23
+"гайдук14_1_4_",Princess_Mariya_Bolkonskaya,Directed,6099,,,2
+Nikolai_Rostov,NatashaRostova,Directed,6100,,,48
+Nikolai_Rostov,Belova,Directed,6101,,,1
+Michaud,Tsar_Alexander_I_of_Russia,Directed,6102,,,6
+"аббат-иезуит6_3_3_",HeleneKuragin,Directed,6103,,,1
+AndreyBolkonsky,Pierre_Bezukhov,Directed,6104,,,110
+Marya_Dmitriyevna_Akhrosimova,девки6_5_2_,Directed,6105,,,1
+Chekmar,кобель4_4_2_,Directed,6106,,,1
+Petya_Rostov,Fedor_Ivanovich_Dolokhov,Directed,6107,,,8
+"слуга2_2_2_",Joseph_Alexeevich_Bazdeev,Directed,6108,,,1
+"Перонская",NatashaRostova,Directed,6109,,,9
+"приближенные24_3_3_",Count_Rostopchin,Directed,6110,,,1
+4,Princess_Anna_Mikhaylovna_Drubetskaya,Directed,6730,,,17
+Pierre_Bezukhov,широкий солдат 31_2_3_,Directed,6112,,,1
+"солдаты9_4_4_",Залетаев,Directed,6113,,,1
+AndreyBolkonsky,Boris_Drubetskoy,Directed,6114,,,10
+Boris_Drubetskoy,Vera_Rostova,Directed,6115,,,2
+Countess_Natalya_Rostova,Vera_Rostova,Directed,6116,,,1
+Pierre_Bezukhov,Boris_Drubetskoy,Directed,6117,,,10
+Raevsky,Mikhail_Ilarionovich_Kutuzov,Directed,6119,,,1
+"полк8_3_1_",Tsar_Alexander_I_of_Russia,Directed,6120,,,1
+"казак7_3_4_",Petya_Rostov,Directed,6121,,,3
+"часовой9_3_4_",Fedor_Ivanovich_Dolokhov,Directed,6122,,,2
+Lieutenant_Alphonse_Karlovich_Berg,Pyotr_Nikolaitch_Shinshin,Directed,6123,,,2
+Nikolai_Rostov,Pierre_Bezukhov,Directed,6124,,,10
+Boris_Drubetskoy,AndreyBolkonsky,Directed,6125,,,2
+Yermolov,Mikhail_Ilarionovich_Kutuzov,Directed,6126,,,2
+Mikhail_Ilarionovich_Kutuzov,генерал 30_2_3_,Directed,6127,,,1
+4,Лоррен,Directed,6731,,,2
+Mavra_Kuzminishna,офицер13_3_3_,Directed,6129,,,1
+"доктор17_2_2_",фельдшер17_2_2_,Directed,6130,,,3
+Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,AndreyBolkonsky,Directed,6131,,,18
+Prince_Nikolay_Bolkonsky,mademoiselle_Bourienne,Directed,6132,,,4
+Nikolai_Rostov,мужики 14_2_3_,Directed,6133,,,1
+AndreyBolkonsky,Weyrother,Directed,6134,,,1
+"другой офицер6_2_1_",Prince_Nesvitsky,Directed,6135,,,2
+young Nikolenka Bolkonsky,AndreyBolkonsky,Directed,6136,,,1
+AndreyBolkonsky,лакей Петр1_3_2_,Directed,6137,,,1
+Nikolai_Rostov,мужики 13_2_3_,Directed,6138,,,1
+Count_Ilya_Rostov,Petya_Rostov,Directed,6139,,,4
+"адъютант1_2_1_",regimental commander,Directed,6140,,,1
+Pierre_Bezukhov,Timohin,Directed,6141,,,1
+NatashaRostova,Nikolai_Rostov,Directed,6142,,,69
+"адъютант13_2_1_",AndreyBolkonsky,Directed,6143,,,1
+"горничная14_1_1_",Countess_Natalya_Rostova,Directed,6144,,,1
+Pierre_Bezukhov,Captain_Ramballe,Directed,6145,,,12
+Nikolai_Rostov,Prince_Bagration,Directed,6146,,,8
+Pierre_Bezukhov,сенатов22_1_3_,Directed,6147,,,1
+Princess_Mariya_Bolkonskaya,Dunyasha,Directed,6148,,,2
+Pierre_Bezukhov,Petya_Rostov,Directed,6149,,,1
+Julie_Karagina,Nikolai_Rostov,Directed,6150,,,2
+Pierre_Bezukhov,Princess_Mariya_Bolkonskaya,Directed,6152,,,28
+NatashaRostova,Sonya_Rostova,Directed,6153,,,93
+"лакей Петр1_3_2_",AndreyBolkonsky,Directed,6154,,,1
+Telyanin,Nikolai_Rostov,Directed,6156,,,16
+Anatole_Kuragin,Балага,Directed,6157,,,5
+"Данило Терентьич",Мишка,Directed,6158,,,1
+Vera_Rostova,Countess_Natalya_Rostova,Directed,6159,,,4
+"губернатор4_1_4_",Nikolai_Rostov,Directed,6160,,,1
+Marya_Lvovna_Karagina,Count_Ilya_Rostov,Directed,6161,,,6
+Nikolai_Rostov,мужик13_2_3_,Directed,6162,,,1
+Belova,Countess_Natalya_Rostova,Directed,6163,,,1
+Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,4,Directed,6732,,,4
+Aline_Kuragina,HeleneKuragin,Directed,6165,,,2
+"худой солдат21_2_1_",артиллеристы21_2_1_,Directed,6166,,,1
+"эконом2_1_2_",Count_Ilya_Rostov,Directed,6167,,,1
+NatashaRostova,Pyotr_Nikolaitch_Shinshin,Directed,6169,,,1
+"вторая Мелюкова11_4_2_",девушка11_4_2_,Directed,6170,,,1
+hunter2,Nikolai_Rostov,Directed,6171,,,1
+Anatole_Kuragin,NatashaRostova,Directed,6172,,,9
+Count_Ilya_Rostov,Pyotr_Nikolaitch_Shinshin,Directed,6173,,,2
+"Пелагеюшка",AndreyBolkonsky,Directed,6174,,,5
+NatashaRostova,Vera_Rostova,Directed,6175,,,3
+Prince_Nikolay_Bolkonsky,Bolkonsky's architect,Directed,6176,,,3
+"кто22_3_2_",AndreyBolkonsky,Directed,6177,,,1
+"генерал3_5_2_",Boris_Drubetskoy,Directed,6178,,,4
+Anatole_Kuragin,Pierre_Bezukhov,Directed,6179,,,15
+Pierre_Bezukhov,Platon_Karataev,Directed,6180,,,11
+Prince_Nikolay_Bolkonsky,Princess_Anna_Mikhaylovna_Drubetskaya,Directed,6181,,,1
+"Макар Алексеевич",Gerasim,Directed,6182,,,2
+Nikolai_Rostov,God,Directed,6183,,,2
+Nikolai_Rostov,hunter2,Directed,6185,,,1
+Julie_Karagina,ополченец17_2_3_,Directed,6186,,,4
+Princess_Anna_Mikhaylovna_Drubetskaya,Countess_Natalya_Rostova,Directed,6187,,,17
+"Захар",Nikolai_Rostov,Directed,6188,,,2
+Ferapontov,Yakov_Alpatych,Directed,6189,,,11
+AndreyBolkonsky,екатериненский старик5_3_2_,Directed,6190,,,1
+AndreyBolkonsky,офицер13_2_1_,Directed,6191,,,3
+"Богданыч",генерал19_2_1_,Directed,6192,,,2
+"гусар7_2_1_",фурштатский солдат7_2_1_,Directed,6193,,,1
+Pierre_Bezukhov,княжна18_2_3_,Directed,6194,,,5
+"Макар Алексеевич",Pierre_Bezukhov,Directed,6195,,,1
+"солдат9_2_1_",AndreyBolkonsky,Directed,6196,,,1
+Princess_Anna_Mikhaylovna_Drubetskaya,4,Directed,6733,,,20
+Mikhail_Ilarionovich_Kutuzov,Tsar_Alexander_I_of_Russia,Directed,6198,,,3
+Uncle,Nikolai_Rostov,Directed,6199,,,5
+Countess_Natalya_Rostova,Belova,Directed,6200,,,1
+"дворецкий15_3_3_",Count_Ilya_Rostov,Directed,6201,,,2
+Pierre_Bezukhov,масоны7_3_2_,Directed,6202,,,1
+Lieutenant_Alphonse_Karlovich_Berg,AndreyBolkonsky,Directed,6203,,,2
+l’homme de beaucoup de mérite,4,Directed,6734,,,1
+Marya_Dmitriyevna_Akhrosimova,HeleneKuragin,Directed,6207,,,1
+NatashaRostova,Диммлер,Directed,6208,,,2
+Pierre_Bezukhov,капрал13_2_4_,Directed,6209,,,1
+"Тит",берейтор18_3_1_,Directed,6210,,,2
+Kochubey,AndreyBolkonsky,Directed,6211,,,2
+Boris_Drubetskoy,Nikolai_Rostov,Directed,6212,,,30
+"адъютант14_3_1_",солдаты14_3_1_,Directed,6213,,,1
+"штаб-офицер21_2_1_",AndreyBolkonsky,Directed,6216,,,1
+Nikolai_Rostov,Boris_Drubetskoy,Directed,6217,,,33
+NatashaRostova,Danila,Directed,6218,,,1
+Mikhail_Ilarionovich_Kutuzov,генерал6_4_4_,Directed,6219,,,2
+Pfuel,Prince_Volkonsky,Directed,6220,,,2
+Pierre_Bezukhov,кучер22_5_2_,Directed,6221,,,1
+Fedor_Ivanovich_Dolokhov,француз15_2_1_,Directed,6222,,,4
+"другой солдат7_2_1_",немец7_2_1_,Directed,6223,,,1
+"Другой француз",француз15_2_1_,Directed,6224,,,1
+Pierre_Bezukhov,Villarsky,Directed,6225,,,4
+Nikolai_Rostov,Карп,Directed,6226,,,1
+regimental commander,солдаты пехотного полка2_2_1_,Directed,6227,,,1
+"солдат18_3_1_",Nikolai_Rostov,Directed,6228,,,2
+Captain_Ramballe,солдаты9_4_4_,Directed,6229,,,1
+AndreyBolkonsky,Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Directed,6230,,,13
+Nikolai_Rostov,Sonya_Rostova,Directed,6231,,,20
+Pierre_Bezukhov,адъютант10_3_3_,Directed,6232,,,5
+Zherkov,аудитор17_2_1_,Directed,6233,,,1
+"другой31_2_3_",ополченцы31_2_3_,Directed,6234,,,1
+Tushin's gunner,AndreyBolkonsky,Directed,6235,,,1
+Staff_Captain_Tushin,Nikolai_Rostov,Directed,6236,,,6
+Mikhail_Ilarionovich_Kutuzov,Yermolov,Directed,6237,,,5
+Petya_Rostov,Count_Ilya_Rostov,Directed,6238,,,4
+Countess_Natalya_Rostova,Nikolai_Rostov,Directed,6239,,,15
+Count_Ilya_Rostov,Sonya_Rostova,Directed,6240,,,1
+"Лихачев",Petya_Rostov,Directed,6241,,,8
+Bilibin,Anna_Pavlovna_Scherer,Directed,6242,,,2
+Princess_Anna_Mikhaylovna_Drubetskaya,Boris_Drubetskoy,Directed,6243,,,13
+Pierre_Bezukhov,главноуправляющий13_4_4_,Directed,6244,,,1
+Anna_Pavlovna_Scherer,4,Directed,6735,,,23
+Aline_Kuragina,пожилая дама2_3_1_,Directed,6246,,,1
+"Диммлер",Nikolai_Rostov,Directed,6247,,,3
+Napoleon_Bonaparte,Репнин,Directed,6248,,,4
+"Миша",NatashaRostova,Directed,6249,,,1
+"толпа17_3_1_",Nikolai_Rostov,Directed,6250,,,1
+"Гаврило",Anatole_Kuragin,Directed,6251,,,2
+Tushin's gunner,Prince_Bagration,Directed,6252,,,1
+Chekmar,Arakcheev,Directed,6253,,,1
+Zherkov,генерал Штраух3_2_1_,Directed,6254,,,1
+"аудитор17_2_1_",Zherkov,Directed,6255,,,3
+"доктор37_2_3_",фельдшеры37_2_3_,Directed,6256,,,1
+Tikhon_Shtcherbatov,esaul Lovaysky,Directed,6257,,,2
+Mikhail_Ilarionovich_Kutuzov,офицеры6_4_4_,Directed,6258,,,1
+Nikolai_Rostov,офицер18_3_1_,Directed,6259,,,2
+"офицер9_3_4_",Fedor_Ivanovich_Dolokhov,Directed,6260,,,2
+Yakov_Alpatych,губернатор4_2_3_,Directed,6261,,,1
+Yakov_Alpatych,Ferapontov,Directed,6262,,,3
+"офицер19_3_1_",другой офицер19_3_1_,Directed,6263,,,2
+Prince_Dolgorukov,Nikolai_Rostov,Directed,6264,,,2
+NatashaRostova,Мавруша,Directed,6265,,,1
+Kirsten,Nikolai_Rostov,Directed,6266,,,13
+"Бицкий",AndreyBolkonsky,Directed,6267,,,2
+Princess_Anna_Mikhaylovna_Drubetskaya,Nikolai_Rostov,Directed,6268,,,1
+Gerasim,Captain_Ramballe,Directed,6269,,,1
+Marya_Dmitriyevna_Akhrosimova,NatashaRostova,Directed,6270,,,26
+NatashaRostova,Поля,Directed,6271,,,1
+"кто-то10_4_4_",Mikhail_Ilarionovich_Kutuzov,Directed,6272,,,1
+Mikhail_Ilarionovich_Kutuzov,попадья16_2_3_,Directed,6273,,,1
+"унтер-офицер31_2_3_",солдаты31_2_3_,Directed,6274,,,1
+"казаки 5_3_4_",Tikhon_Shtcherbatov,Directed,6275,,,1
+"старый солдат8_4_4_",солдаты8_4_4_,Directed,6276,,,1
+"Демьян",AndreyBolkonsky,Directed,6277,,,1
+"Валуев",Tsar_Alexander_I_of_Russia,Directed,6278,,,1
+Zherkov,AndreyBolkonsky,Directed,6279,,,2
+Pierre_Bezukhov,французы33_3_3_,Directed,6280,,,1
+Nikolai_Rostov,governor's wife,Directed,6281,,,13
+"Сидоров",солдаты15_2_1_,Directed,6282,,,1
+Catiche(eldest princess),Princess_Anna_Mikhaylovna_Drubetskaya,Directed,6283,,,3
+"Балага",Anatole_Kuragin,Directed,6284,,,8
+"кучер18_2_3_",Pierre_Bezukhov,Directed,6285,,,2
+Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Hippolyte_Kuragin,Directed,6286,,,2
+Yermolov,Raevsky,Directed,6287,,,1
+"офицер9_2_1_",ямщик9_2_1_,Directed,6288,,,1
+"адъютант11_3_1_",Tsar_Alexander_I_of_Russia,Directed,6289,,,1
+1,AndreyBolkonsky,Directed,6660,,,5
+Anna_Pavlovna_Scherer,Bilibin,Directed,6291,,,1
+"управляющий16_3_3_",NatashaRostova,Directed,6292,,,1
+Hippolyte_Kuragin,AndreyBolkonsky,Directed,6293,,,1
+Mikhail_Ilarionovich_Kutuzov,Prince_Kozlovsky,Directed,6294,,,1
+"Макарин",Anatole_Kuragin,Directed,6295,,,1
+"штабный начальник4_2_3_",AndreyBolkonsky,Directed,6296,,,1
+Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,хозяйка2_1_1_,Directed,6297,,,1
+Pierre_Bezukhov,дворецкий18_3_3_,Directed,6298,,,1
+"австрийский генерал3_2_1_",Mikhail_Ilarionovich_Kutuzov,Directed,6299,,,2
+Pierre_Bezukhov,Fedor_Ivanovich_Dolokhov,Directed,6300,,,5
+AndreyBolkonsky,Prince_Nikolay_Bolkonsky,Directed,6301,,,23
+"Фока",NatashaRostova,Directed,6302,,,1
+"люди16_3_3_",Countess_Natalya_Rostova,Directed,6303,,,1
+Pierre_Bezukhov,Princess_Anna_Mikhaylovna_Drubetskaya,Directed,6304,,,2
+"дворецкий14_3_3_",NatashaRostova,Directed,6305,,,1
+"няня11_1_5_",NatashaRostova,Directed,6306,,,2
+Count_Ilya_Rostov,эконом2_1_2_,Directed,6307,,,1
+Lavrushka,Ilyin,Directed,6308,,,1
+"генерал19_2_2_",Boris_Drubetskoy,Directed,6309,,,2
+Mikhail_Ilarionovich_Kutuzov,AndreyBolkonsky,Directed,6310,,,28
+"капрал11_2_4_",Pierre_Bezukhov,Directed,6311,,,2
+"цыганка Матреша17_5_2_",nolabel,Directed,6312,,,1
+Dron_Zakharych,Princess_Mariya_Bolkonskaya,Directed,6313,,,8
+"альзасец10_3_1_",Nikolai_Rostov,Directed,6315,,,1
+Pierre_Bezukhov,3,Directed,6713,,,1
+"дама2_3_1_",4,Directed,6736,,,1
+"плясун8_4_4_",солдаты8_4_4_,Directed,6318,,,1
+Boris_Drubetskoy,Count_Rostopchin,Directed,6319,,,1
+Yakov_Alpatych,AndreyBolkonsky,Directed,6320,,,4
+Pierre_Bezukhov,чиновник10_3_3_,Directed,6321,,,2
+"солдат15_2_1_",товарищ15_2_1_,Directed,6322,,,1
+Miloradovich,апшеронцы15_3_1_,Directed,6323,,,1
+Shcherbinin,Bolhovitinov,Directed,6324,,,5
+"фельдфебель8_4_4_",солдат8_4_4_,Directed,6325,,,2
+"один31_2_3_",Pierre_Bezukhov,Directed,6326,,,1
+Timohin,AndreyBolkonsky,Directed,6327,,,10
+"офицер12_1_3_",Nikolai_Rostov,Directed,6328,,,1
+Anna_Pavlovna_Scherer,Anna_Pavlovna_Scherer,Directed,6329,,,1
+Dunyasha (Bolkonsky maid),Ilyin,Directed,6330,,,1
+"Сухтелен",Napoleon_Bonaparte,Directed,6331,,,1
+NatashaRostova,Marya_Lvovna_Karagina,Directed,6332,,,1
+Bilibin,Hippolyte_Kuragin,Directed,6333,,,1
+"солдат31_2_3_",мужик31_2_3_,Directed,6334,,,1
+Nikolai_Rostov,немец4_2_1_,Directed,6335,,,3
+Shcherbinin,денщик16_2_4_,Directed,6336,,,4
+Zherkov,гусарские офицеры5_2_1_,Directed,6337,,,3
+Anatole_Kuragin,Yakov (Anatole's servant),Directed,6338,,,1
+Prince_Dolgorukov,Bilibin,Directed,6340,,,2
+Pyotr_Nikolaitch_Shinshin,Lieutenant_Alphonse_Karlovich_Berg,Directed,6341,,,3
+Pierre_Bezukhov,Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Directed,6342,,,3
+"солдаты15_3_4_",казаки и гусары15_3_4_,Directed,6343,,,1
+Fedor_Ivanovich_Dolokhov,Timohin,Directed,6344,,,1
+Tikhon_Shtcherbatov,Petya_Rostov,Directed,6345,,,2
+"шутник31_2_3_",Pierre_Bezukhov,Directed,6346,,,1
+"пехотный офицер16_2_1_",Staff_Captain_Tushin,Directed,6347,,,2
+Marya_Dmitriyevna_Akhrosimova,Count_Ilya_Rostov,Directed,6348,,,12
+Vera_Rostova,NatashaRostova,Directed,6349,,,7
+Danila,Count_Ilya_Rostov,Directed,6350,,,3
+Count_Vasily_Orlov-Denisov,один из свиты6_2_4_,Directed,6352,,,1
+Paisi_Kaysarov,Boris_Drubetskoy,Directed,6353,,,1
+"Ефим",форейтор17_3_3_,Directed,6354,,,1
+Princess_Anna_Mikhaylovna_Drubetskaya,княжна21_1_1_,Directed,6355,,,1
+"субалтерн-офицер2_2_1_",Timohin,Directed,6356,,,1
+Pierre_Bezukhov,Catiche(eldest princess),Directed,6358,,,9
+Nastasya Ivanovna (buffoon),NatashaRostova,Directed,6359,,,1
+"лакей1_1_2_",Nikolai_Rostov,Directed,6360,,,1
+NatashaRostova,Pierre_Bezukhov,Directed,6361,,,63
+"офицер6_2_1_",артиллерийская прислуга6_2_1_,Directed,6362,,,1
+Staff_Captain_Tushin,солдат21_2_1_,Directed,6363,,,1
+Yermolov,Capt._von_Toll,Directed,6364,,,1
+Hippolyte_Kuragin,Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Directed,6365,,,5
+viscount,Anna_Pavlovna_Scherer,Directed,6366,,,2
+"Антон",AndreyBolkonsky,Directed,6367,,,1
+"буфетчик14_3_3_",NatashaRostova,Directed,6368,,,2
+Countess_Natalya_Rostova,AndreyBolkonsky,Directed,6369,,,8
+Lieutenant_Alphonse_Karlovich_Berg,товарищ11_3_2_,Directed,6370,,,2
+Nikolai_Rostov,hunter,Directed,6371,,,1
+Nikolai_Rostov,Кто-то,Directed,6372,,,1
+"доктор13_1_3_",Ilyin,Directed,6373,,,1
+Mikhail_Ilarionovich_Kutuzov,Raevsky,Directed,6374,,,2
+"солдат 28_4_4_",старый солдат8_4_4_,Directed,6375,,,1
+Nikolai_Rostov,Андрей Севастьяныч,Directed,6376,,,1
+Balashev,Napoleon_Bonaparte,Directed,6377,,,8
+Nikolai_Rostov,Bolkonsky's architect,Directed,6378,,,1
+"дипломаты 11_2_1_",AndreyBolkonsky,Directed,6379,,,1
+Count_Ilya_Rostov,Васильич,Directed,6380,,,2
+Nikolai_Rostov,Lieutenant_Alphonse_Karlovich_Berg,Directed,6381,,,2
+Princess_Mariya_Bolkonskaya,Dron_Zakharych,Directed,6382,,,11
+AndreyBolkonsky,Tsar_Alexander_I_of_Russia,Directed,6383,,,1
+Prince_Kozlovsky,писарь13_2_1_,Directed,6384,,,1
+"батальонный командир1_2_1_",regimental commander,Directed,6385,,,1
+"берейтор18_3_1_",Тит,Directed,6386,,,2
+Prince_Bagration,штаб-офицер21_2_1_,Directed,6387,,,1
+Nikolai_Rostov,солдат17_2_2_,Directed,6388,,,1
+"денщик16_2_4_",Shcherbinin,Directed,6389,,,1
+Tsar_Alexander_I_of_Russia,Prince_Kozlovsky,Directed,6390,,,2
+Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Prince_Nikolay_Bolkonsky,Directed,6391,,,4
+Savishna(nurse),Princess_Mariya_Bolkonskaya,Directed,6392,,,4
+"Паулучи",Wolzogen,Directed,6393,,,1
+Fedor_Ivanovich_Dolokhov,пленные15_3_4_,Directed,6394,,,1
+"хохол4_2_1_",Nikolai_Rostov,Directed,6395,,,1
+Julie_Karagina,Boris_Drubetskoy,Directed,6396,,,1
+AndreyBolkonsky,Prince_Meshersky,Directed,6397,,,3
+HeleneKuragin,NatashaRostova,Directed,6398,,,10
+Vera_Rostova,Nikolai_Rostov,Directed,6399,,,4
+Zherkov,Prince_Bagration,Directed,6401,,,1
+"Богданыч",Zherkov,Directed,6402,,,3
+Staff_Captain_Tushin,Медведев,Directed,6403,,,1
+Berthier,Napoleon_Bonaparte,Directed,6404,,,1
+"свитский офицер8_2_1_",Prince_Nesvitsky,Directed,6405,,,1
+"адъютант10_3_3_",Pierre_Bezukhov,Directed,6406,,,9
+AndreyBolkonsky,солдаты16_3_1_,Directed,6407,,,1
+Nikolai_Rostov,4,Directed,6737,,,1
+"адъютант31_2_3_",Pierre_Bezukhov,Directed,6409,,,5
+Count_Ilya_Rostov,Countess_Natalya_Rostova,Directed,6410,,,10
+Mavra_Kuzminishna,офицер22_3_3_,Directed,6411,,,7
+"Лоррен",Вторая княжна,Directed,6412,,,3
+Mikhail_Ilarionovich_Kutuzov,Count_Bennigsen,Directed,6413,,,2
+General_Mack,Prince_Kozlovsky,Directed,6414,,,1
+Prince_Nikolay_Bolkonsky,Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Directed,6415,,,4
+Boris_Drubetskoy,Julie_Karagina,Directed,6416,,,2
+Tsar_Alexander_I_of_Russia,Boris_Drubetskoy,Directed,6417,,,1
+Countess_Natalya_Rostova,Анна Тимофеевна,Directed,6419,,,1
+Sonya_Rostova,Пелагея Даниловна Мелюкова,Directed,6420,,,1
+Sonya_Rostova,Princess_Mariya_Bolkonskaya,Directed,6421,,,2
+"Богданыч",Marya_Dmitriyevna_Akhrosimova,Directed,6422,,,1
+"Метивье",mademoiselle_Bourienne,Directed,6423,,,1
+AndreyBolkonsky,адъютант36_2_3_,Directed,6424,,,3
+"лакей7_1_1_",Countess_Natalya_Rostova,Directed,6425,,,1
+"Игнат",мальчик22_3_3_,Directed,6426,,,1
+AndreyBolkonsky,Nikolai_Rostov,Directed,6427,,,5
+Emperor_Francis_I_of_Austria,AndreyBolkonsky,Directed,6428,,,9
+Nikolai_Rostov,Karay,Directed,6429,,,5
+"солдат9_4_4_",Морель,Directed,6431,,,3
+"лакей3_1_2_",Count_Ilya_Rostov,Directed,6432,,,1
+Pierre_Bezukhov,Countess_Natalya_Rostova,Directed,6433,,,10
+"гусар10_3_4_",Petya_Rostov,Directed,6434,,,1
+NatashaRostova,Princess_Mariya_Bolkonskaya,Directed,6435,,,31
+AndreyBolkonsky,Princess_Mariya_Bolkonskaya,Directed,6436,,,50
+Princess_Anna_Mikhaylovna_Drubetskaya,old priest,Directed,6437,,,2
+Napoleon_Bonaparte,адъютант Наполеона38_2_3_,Directed,6438,,,2
+Bolhovitinov,денщик16_2_4_,Directed,6439,,,2
+Mikhail_Ilarionovich_Kutuzov,Boris_Drubetskoy,Directed,6440,,,3
+"старичок15_3_4_",Pierre_Bezukhov,Directed,6441,,,1
+AndreyBolkonsky,Kochubey,Directed,6442,,,1
+Pierre_Bezukhov,Савельич,Directed,6443,,,5
+"адъютант25_3_3_",Count_Rostopchin,Directed,6444,,,1
+"офицер15_3_3_",Count_Ilya_Rostov,Directed,6445,,,1
+Fedor_Ivanovich_Dolokhov,regimental commander,Directed,6446,,,3
+Pierre_Bezukhov,управляющий10_2_2_,Directed,6447,,,1
+"офицер посмелее6_2_1_",Prince_Nesvitsky,Directed,6448,,,1
+Bilibin,Prince_Dolgorukov,Directed,6449,,,1
+Marya_Lvovna_Karagina,NatashaRostova,Directed,6450,,,2
+"доктор20_2_3_",Pierre_Bezukhov,Directed,6451,,,6
+Prince_Nikolay_Bolkonsky,Метивье,Directed,6453,,,1
+Count_Ilya_Rostov,Nikolai_Rostov,Directed,6454,,,15
+Count_Ilya_Rostov,старичок 3_1_2_,Directed,6455,,,1
+Pierre_Bezukhov,Gerasim,Directed,6456,,,6
+"первый солдат8_4_4_",плясун8_4_4_,Directed,6457,,,1
+Pierre_Bezukhov,Анна Макаровна,Directed,6458,,,1
+Prince_Nesvitsky,Богданыч,Directed,6459,,,3
+"Франц",Bilibin,Directed,6460,,,1
+Wife_of_Ferapontov,Ferapontov,Directed,6461,,,1
+"другой адъютант13_2_1_",AndreyBolkonsky,Directed,6462,,,1
+"немец-доктор18_1_1_",Лоррен,Directed,6463,,,1
+"горничная17_3_3_",Sonya_Rostova,Directed,6464,,,2
+"офицер31_2_3_",Pierre_Bezukhov,Directed,6465,,,1
+viscount,Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Directed,6466,,,1
+Pierre_Bezukhov,General_Davoust,Directed,6467,,,4
+AndreyBolkonsky,Yakov_Alpatych,Directed,6468,,,9
+Princess_Mariya_Bolkonskaya,Dunyasha (Bolkonsky maid),Directed,6469,,,4
+AndreyBolkonsky,viscount,Directed,6470,,,4
+"офицер13_2_1_",солдат13_2_1_,Directed,6471,,,2
+"горничная14_3_2_",NatashaRostova,Directed,6472,,,3
+Princess_Anna_Mikhaylovna_Drubetskaya,Count_Ilya_Rostov,Directed,6473,,,5
+Sonya_Rostova,горничная17_3_3_,Directed,6474,,,1
+"штаб-офицер15_2_1_",Staff_Captain_Tushin,Directed,6475,,,3
+Lieutenant_Alphonse_Karlovich_Berg,Nikolai_Rostov,Directed,6476,,,4
+Anna_Pavlovna_Scherer,Pierre_Bezukhov,Directed,6477,,,13
+Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Katya (maid),Directed,6478,,,1
+Mavra_Kuzminishna,NatashaRostova,Directed,6479,,,2
+"Сидоров",француз15_2_1_,Directed,6480,,,1
+"Пелагеюшка",Princess_Mariya_Bolkonskaya,Directed,6481,,,2
+"француз15_3_4_",Pierre_Bezukhov,Directed,6482,,,1
+"Марья Ивановна",Nikolai_Rostov,Directed,6483,,,2
+"солдаты15_2_1_",Сидоров,Directed,6484,,,1
+viscount,l'homme à l'esprit profond,Directed,6485,,,1
+HeleneKuragin,Aline_Kuragina,Directed,6486,,,2
+HeleneKuragin,4,Directed,6738,,,2
+Vera_Rostova,Sonya_Rostova,Directed,6488,,,1
+Anna_Pavlovna_Scherer,HeleneKuragin,Directed,6489,,,2
+"капитан13_2_4_",Pierre_Bezukhov,Directed,6490,,,5
+Fedor_Ivanovich_Dolokhov,Nikolai_Rostov,Directed,6491,,,34
+Zherkov,Богданыч,Directed,6492,,,1
+"девушка8_2_2_",AndreyBolkonsky,Directed,6493,,,1
+Marya_Lvovna_Karagina,Princess_Anna_Mikhaylovna_Drubetskaya,Directed,6494,,,1
+Nikolai_Rostov,человек в помочах20_2_2_,Directed,6495,,,2
+Boris_Drubetskoy,Lieutenant_Alphonse_Karlovich_Berg,Directed,6496,,,1
+Staff_Captain_Tushin,Prince_Bagration,Directed,6497,,,1
+Mikhail_Ilarionovich_Kutuzov,Pierre_Bezukhov,Directed,6498,,,1
+Princess_Anna_Mikhaylovna_Drubetskaya,NatashaRostova,Directed,6499,,,3
+"повар2_1_2_",Count_Ilya_Rostov,Directed,6500,,,1
+"шутник9_4_4_",Морель,Directed,6501,,,1
+Count_Rostopchin,полицеймейстер25_3_3_,Directed,6502,,,1
+Petya_Rostov,Pierre_Bezukhov,Directed,6503,,,1
+"официант15_4_4_",Pierre_Bezukhov,Directed,6504,,,1
+AndreyBolkonsky,Петруша,Directed,6505,,,1
+Anna_Pavlovna_Scherer,неопытный молодой человек1_1_4_,Directed,6506,,,1
+Abbe Morio,Anna_Pavlovna_Scherer,Directed,6507,,,1
+"адъютант19_3_1_",Napoleon_Bonaparte,Directed,6508,,,1
+Anna_Pavlovna_Scherer,Princess_Elisabeta__Lisa__Karlovna_Bolkonskaya,Directed,6509,,,1
+Tsar_Alexander_I_of_Russia,Mikhail_Ilarionovich_Kutuzov,Directed,6510,,,2
+Pfuel,AndreyBolkonsky,Directed,6511,,,1
+"приказный18_2_3_",Pierre_Bezukhov,Directed,6512,,,1
+"генерал30_2_3_",один из штабных30_2_3_,Directed,6513,,,1
+HeleneKuragin,молодой иностранный принц6_3_3_,Directed,6515,,,3
+"солдат8_4_4_",Макеев,Directed,6516,,,1
+Timohin,солдат15_2_1_,Directed,6517,,,1
+Pyotr_Nikolaitch_Shinshin,Богданыч,Directed,6518,,,1
+Yakov_Alpatych,Prince_Nesvitsky,Directed,6519,,,1
+"казак10_3_1_",пленный10_3_1_,Directed,6520,,,1
+Nikolai_Rostov,Dron_Zakharych,Directed,6521,,,1
+Fedor_Ivanovich_Dolokhov,Pierre_Bezukhov,Directed,6522,,,12
+Nikolai_Rostov,Milka,Directed,6523,,,1
+AndreyBolkonsky,Vera_Rostova,Directed,6524,,,3
+Staff_Captain_Tushin,артиллерийская прислуга20_2_1_,Directed,6525,,,1
+"девушка10_4_2_",NatashaRostova,Directed,6527,,,1
+Gerasim,Макар Алексеевич,Directed,6528,,,2
+General_Davoust,Pierre_Bezukhov,Directed,6529,,,8
+regimental commander,Timohin,Directed,6530,,,9
+Pierre_Bezukhov,young Nikolenka Bolkonsky,Directed,6531,,,2
+"девка33_3_3_",Pierre_Bezukhov,Directed,6532,,,1
+"генерал15_3_1_",Mikhail_Ilarionovich_Kutuzov,Directed,6533,,,4
+mademoiselle_Bourienne,Prince_Nikolay_Bolkonsky,Directed,6534,,,1
+"фельдшер17_2_2_",Nikolai_Rostov,Directed,6537,,,4
+"кто-то18_2_1_",Prince_Bagration,Directed,6538,,,1
+Countess_Natalya_Rostova,NatashaRostova,Directed,6539,,,56
+Arakcheev,AndreyBolkonsky,Directed,6540,,,6
+"толпа14_2_3_",Yakov_Alpatych,Directed,6541,,,1
+"мужик13_2_3_",Nikolai_Rostov,Directed,6543,,,3
+Boris_Drubetskoy,Prince_Nikolay_Bolkonsky,Directed,6544,,,1
+AndreyBolkonsky,Zherkov,Directed,6545,,,2
+Lieutenant_Alphonse_Karlovich_Berg,Vera_Rostova,Directed,6546,,,4
+"Репнин",Napoleon_Bonaparte,Directed,6547,,,2
+"чиновник9_2_1_",AndreyBolkonsky,Directed,6548,,,1
+1,Countess_Natalya_Rostova,Directed,6659,,,3
+Petya_Rostov,NatashaRostova,Directed,6550,,,8
+Napoleon_Bonaparte,посыльный34_2_3_,Directed,6551,,,1
+Boris_Drubetskoy,Mikhail_Ilarionovich_Kutuzov,Directed,6552,,,1
+Pierre_Bezukhov,официант15_4_4_,Directed,6553,,,1
+Mikhail_Ilarionovich_Kutuzov,Prince_Bagration,Directed,6554,,,3
+"казак15_3_4_",Fedor_Ivanovich_Dolokhov,Directed,6555,,,1
+Fedor_Ivanovich_Dolokhov,Anatole_Kuragin,Directed,6556,,,20
+Timohin,Pierre_Bezukhov,Directed,6557,,,1
+Tsar_Alexander_I_of_Russia,Чарторижский,Directed,6558,,,1
+Piotr_Petrovich_Konovnitsyn,Bolhovitinov,Directed,6559,,,1
+AndreyBolkonsky,адъютант13_2_1_,Directed,6560,,,1
+"денщик7_2_1_",солдат7_2_1_,Directed,6561,,,1
+Prince_Nikolay_Bolkonsky,Anatole_Kuragin,Directed,6562,,,8
+Pierre_Bezukhov,Богданыч,Directed,6563,,,1
+"дама18_1_1_",old priest,Directed,6564,,,1
+Princess_Mariya_Bolkonskaya,AndreyBolkonsky,Directed,6565,,,40
+"солдат8_4_4_",плясун8_4_4_,Directed,6566,,,3
+Tsar_Alexander_I_of_Russia,павлоградцы8_3_1_,Directed,6567,,,1
+"Марья Генриховна",Nikolai_Rostov,Directed,6568,,,2
+NatashaRostova,AndreyBolkonsky,Directed,6569,,,26
+Joachim_Murat,Balashev,Directed,6570,,,3
+"Смольянинов (ритор)",Pierre_Bezukhov,Directed,6571,,,16
+Mikhail_Ilarionovich_Kutuzov,Чичагов,Directed,6572,,,1
+Pierre_Bezukhov,Пелагеюшка,Directed,6573,,,5
+Aline_Kuragina,4,Directed,6739,,,2
+Catiche(eldest princess),4,Directed,6740,,,23
+"Итальянец",Pierre_Bezukhov,Directed,6577,,,1
+Princess_Mariya_Bolkonskaya,Prince_Nikolay_Bolkonsky,Directed,6578,,,16
+Mikhail_Ilarionovich_Kutuzov,Count_Rostopchin,Directed,6579,,,1
+"Пелагея Даниловна Мелюкова",NatashaRostova,Directed,6580,,,1
+Mikhail_Ilarionovich_Kutuzov,Piotr_Petrovich_Konovnitsyn,Directed,6581,,,1
+Pierre_Bezukhov,4,Directed,6741,,,5
+Bolhovitinov,Shcherbinin,Directed,6583,,,3
+"Пелагея Даниловна Мелюкова",Sonya_Rostova,Directed,6584,,,1
+"человек в помочах20_2_2_",Nikolai_Rostov,Directed,6585,,,4
+"один из офицеров10_3_1_",офицеры10_3_1_,Directed,6586,,,1
+Count_Ilya_Rostov,Chekmar,Directed,6587,,,3
+Napoleon_Bonaparte,адъютант19_3_1_,Directed,6588,,,1
+"Залетаев",Морель,Directed,6589,,,1
+"смелая крестьянка7_4_2_",NatashaRostova,Directed,6591,,,1
+"солдаты8_4_4_",один солдат8_4_4_,Directed,6592,,,1
+Nikolai_Rostov,ямщик1_1_2_,Directed,6593,,,3
+Uncle,Rugai,Directed,6594,,,4
+Fedor_Ivanovich_Dolokhov,казак15_3_4_,Directed,6595,,,1
+"похвалы1_1_4_",4,Directed,6742,,,1
+Staff_Captain_Tushin,штаб-офицер20_2_1_,Directed,6597,,,1
+Marya_Bogdanovna,Princess_Mariya_Bolkonskaya,Directed,6598,,,1
+Prince_Nesvitsky,Zherkov,Directed,6599,,,1
+"генерал15_2_3_",Mikhail_Ilarionovich_Kutuzov,Directed,6600,,,1
+4,Catiche(eldest princess),Directed,6723,,,20
+Princess_Mariya_Bolkonskaya,4,Directed,6743,,,1
+Count_Ilya_Rostov,офицер15_3_3_,Directed,6603,,,3
+Capt._von_Toll,Mikhail_Ilarionovich_Kutuzov,Directed,6604,,,1
+AndreyBolkonsky,Hippolyte_Kuragin,Directed,6605,,,1
+Mikhail_Ilarionovich_Kutuzov,Prince_Wurtemberg,Directed,6606,,,1
+Marya_Lvovna_Karagina,Countess_Natalya_Rostova,Directed,6607,,,7
+"няня14_3_2_",NatashaRostova,Directed,6608,,,1
+"француз15_2_1_",Fedor_Ivanovich_Dolokhov,Directed,6609,,,1
+Nikolai_Rostov,гусар13_3_1_,Directed,6610,,,3
+"Вторая княжна",Princess_Anna_Mikhaylovna_Drubetskaya,Directed,6611,,,1
+"востроносенький солдат8_4_4_",старый солдат8_4_4_,Directed,6612,,,1
+Nikolai_Rostov,Danila,Directed,6613,,,4
+HeleneKuragin,аббат-иезуит6_3_3_,Directed,6614,,,1
+Wolzogen,Clausewitz,Directed,6615,,,1
+Countess_Natalya_Rostova,Sonya_Rostova,Directed,6617,,,5
+Sonya_Rostova,Nikolai_Rostov,Directed,6618,,,17
+Hippolyte_Kuragin,Bilibin,Directed,6619,,,1
+Pierre_Bezukhov,мародер34_3_3_,Directed,6620,,,1
+"кто-то17_2_3_",Julie_Karagina,Directed,6621,,,2
+Count_Ilya_Rostov,Lieutenant_Alphonse_Karlovich_Berg,Directed,6622,,,6
+Nikolai_Rostov,Lavrushka,Directed,6623,,,6
+"другие солдаты8_3_3_",Pierre_Bezukhov,Directed,6624,,,1
+Napoleon_Bonaparte,гвардеец29_2_3_,Directed,6625,,,1
+governor's wife,Nikolai_Rostov,Directed,6626,,,11
+AndreyBolkonsky,Иванушка,Directed,6627,,,1
+Sonya_Rostova,Pierre_Bezukhov,Directed,6628,,,2
+Napoleon_Bonaparte,Бельяр,Directed,6629,,,1
+Ilyin,Dunyasha (Bolkonsky maid),Directed,6630,,,2
+Hippolyte_Kuragin,дипломаты 11_2_1_,Directed,6631,,,1
+Nikolai_Rostov,Никита Иваныч (муж блондинки),Directed,6632,,,1
+Prince_Nesvitsky,генерал6_2_1_,Directed,6633,,,3
+Napoleon_Bonaparte,Де-Боссе,Directed,6634,,,5
+Prince_Kozlovsky,General_Mack,Directed,6636,,,2
+Count_Ilya_Rostov,Fedor_Ivanovich_Dolokhov,Directed,6637,,,1
+"один из солдат 38_3_3_",Pierre_Bezukhov,Directed,6638,,,1
+Fedor_Ivanovich_Dolokhov,Petya_Rostov,Directed,6639,,,10
+Pierre_Bezukhov,Count_Rostopchin,Directed,6640,,,5
+NatashaRostova,Кондратьевна,Directed,6641,,,1
+Tsar_Alexander_I_of_Russia,AndreyBolkonsky,Directed,6642,,,1
+regimental commander,адъютант1_2_1_,Directed,6643,,,2
+Nikolai_Rostov,Бондаренко,Directed,6644,,,2
+"кучер22_5_2_",Pierre_Bezukhov,Directed,6645,,,1
+"казачий офицер4_2_4_",кавалергардский офицер4_2_4_,Directed,6646,,,1
+"денщик18_3_1_",Nikolai_Rostov,Directed,6647,,,1
+Napoleon_Bonaparte,адъютант34_2_3_,Directed,6649,,,1
+"Пелагея Даниловна Мелюкова",буфетчик11_4_2_,Directed,6650,,,1
+"один француз15_2_1_",француз15_2_1_,Directed,6651,,,1
+Anna_Ignatyevna_Malvintsev,Nikolai_Rostov,Directed,6652,,,1
+"офицеры9_3_4_",Fedor_Ivanovich_Dolokhov,Directed,6653,,,2
+Vera_Rostova,Marya_Lvovna_Karagina,Directed,6654,,,1
+"Чичагов",Mikhail_Ilarionovich_Kutuzov,Directed,6655,,,1
+"солдат31_2_3_",Pierre_Bezukhov,Directed,6656,,,2
+0,Count_Rostopchin,Directed,6657,,,1
+Count_Rostopchin,0,Directed,6658,,,1
+1,Миронов,Directed,6661,,,1
+1,Tikhon_Shtcherbatov,Directed,6662,,,9
+1,Mikhail_Ilarionovich_Kutuzov,Directed,6663,,,2
+1,Nikolai_Rostov,Directed,6664,,,53
+1,офицеры16_2_2_,Directed,6665,,,1
+1,казак10_3_1_,Directed,6666,,,1
+1,Count_Ilya_Rostov,Directed,6667,,,1
+1,Pierre_Bezukhov,Directed,6668,,,7
+1,пехотный офицер16_2_2_,Directed,6669,,,4
+1,NatashaRostova,Directed,6670,,,5
+1,Telyanin,Directed,6671,,,3
+1,Fedor_Ivanovich_Dolokhov,Directed,6672,,,8
+1,Prince_Nesvitsky,Directed,6673,,,5
+1,начальник8_2_1_,Directed,6674,,,1
+1,Йогель,Directed,6675,,,1
+1,Богданыч,Directed,6676,,,1
+1,Kirsten,Directed,6677,,,2
+1,Lavrushka,Directed,6678,,,4
+1,esaul Lovaysky,Directed,6679,,,8
+1,гусары19_2_1_,Directed,6680,,,1
+1,Petya_Rostov,Directed,6681,,,18
+1,немец начальник отряда3_3_4_,Directed,6682,,,1
+Petya_Rostov,1,Directed,6683,,,18
+"денщик Кутузова15_2_3_",1,Directed,6684,,,1
+Lavrushka,1,Directed,6685,,,6
+Prince_Nesvitsky,1,Directed,6686,,,3
+Fedor_Ivanovich_Dolokhov,1,Directed,6687,,,12
+"пехотный офицер16_2_2_",1,Directed,6688,,,5
+NatashaRostova,1,Directed,6689,,,8
+Staff_Captain_Tushin,1,Directed,6690,,,2
+Nikolai_Rostov,1,Directed,6691,,,26
+Mikhail_Ilarionovich_Kutuzov,1,Directed,6692,,,2
+"Иогель",1,Directed,6693,,,1
+"вахмистр16_2_2_",1,Directed,6694,,,1
+"Богданыч",1,Directed,6695,,,2
+Countess_Natalya_Rostova,1,Directed,6696,,,1
+Pierre_Bezukhov,1,Directed,6697,,,3
+Telyanin,1,Directed,6698,,,2
+Count_Ilya_Rostov,1,Directed,6699,,,1
+AndreyBolkonsky,1,Directed,6700,,,1
+"улан18_2_2_",1,Directed,6701,,,1
+"Штаб-ротмистр",1,Directed,6702,,,1
+regimental commander,1,Directed,6703,,,1
+Tikhon_Shtcherbatov,1,Directed,6704,,,11
+Kirsten,1,Directed,6705,,,3
+esaul Lovaysky,1,Directed,6706,,,5
